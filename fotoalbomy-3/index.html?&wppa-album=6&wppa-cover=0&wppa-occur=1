@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>НПЭО - Независимая потребительская экспертиза, оценка</title>
+<title>Фотоальбомы | Независимая потребительская экспертиза и оценка</title>
 
 <!-- Style sheets -->
 <link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/style.css" media="screen" />
@@ -32,6 +32,7 @@
 </style>
 <link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента" href="http://www.expert-omsk.ru/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента комментариев" href="http://www.expert-omsk.ru/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента комментариев к &laquo;Фотоальбомы&raquo;" href="http://www.expert-omsk.ru/fotoalbomy-3/feed/" />
 <link rel='stylesheet' id='wppa_style-css'  href='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/theme/wppa-style.css?ver=5-2-20-000' type='text/css' media='all' />
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
@@ -39,24 +40,19 @@
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/wppa.init.ru.js?ver=143'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.expert-omsk.ru/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.expert-omsk.ru/wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Экспертиза мебели' href='http://www.expert-omsk.ru/uslugi/ekspertiza-mebeli/' />
-<link rel='next' title='Часто встречаемые дефекты оконных и дверных блоков' href='http://www.expert-omsk.ru/fotogalereya-ekspertiza-okon/' />
+<link rel='prev' title='Экспертиза окон и дверей' href='http://www.expert-omsk.ru/uslugi/ekspertiza-okon-i-dverei/' />
+<link rel='next' title='Форма публикации' href='http://www.expert-omsk.ru/rcl-postedit/' />
 <meta name="generator" content="WordPress 3.8.1" />
-<link rel='shortlink' href='http://www.expert-omsk.ru/?p=679' />
+<link rel='shortlink' href='http://www.expert-omsk.ru/?p=1497' />
 <meta name="template" content="delicate 3.5" />
 <meta name="generator" content="NattyWP Framework Version 2.0" />
 <meta name="description" content="Экспертиза и оценка любого имущества " />
 <link rel="icon" href="http://www.expert-omsk.ru/wp-content/themes/delicate/images/icons/meta-tags.gif" /><link rel="shortcut icon" href="http://www.expert-omsk.ru/wp-content/themes/delicate/images/icons/meta-tags.gif" />
 <link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/functions/css/shortcodes.css" media="screen" /><script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/functions/js/shortcode.js"></script>
-<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[119,221] -->
+<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[119,245] -->
 <link rel="author" href="https://plus.google.com/u/0/b/117263384751577198670/117263384751577198670/about" />
-<meta name="description" content="Экспертиза ремонтных работ, монтажа и эксплуатации оконных и дверных блоков. Оценка недвижимости, квартир, автомобилей. Оценка ущерба от затопления. Перео" />
-
-<meta name="keywords" content="Оказываем весь спектр услуг по оценке стоимости, Все виды оценки, Оценка предприятия (бизнеса), Оценка недвижимости, Оценка зданий, Оценка сооружений, помещений, земельных участков, квартир, коттеджей и другой загородной недвижимости, Оценка ценных бумаг акций векселей, Оценка интеллектуальной собственности, Оборудования, Автомобилей и спецтехники. Переоценка. Оценка ущерба от залива квартиры или затопления помещения, Оценка ущерба от пожара, Оценка устранения строительных дефектов, Окна ПВХ, Пластиковые окна, Оценка дефектов оконных и дверных блоков, Выполняем экспертизу, Экспертиза общестроительных работ, Экспертиза отделочных работ, Экспертиза ремонтных работ и услуг в части производства, монтажа и эксплуатации оконных и дверных блоков, Экспертиза технического состояния, Экспертиза транспортных средств, Оценка автомобиля, Автотехническая экспертиза, исследование технического состояния транспортных средств их частей узлов агрегатов, Экспертиза общестроительных работ и строительных материалов, Экспертиза сложной бытовой техники, Экспертиза мебели" />
-
-<style type="text/css">
-</style><meta name="google-site-verification" content="2iGA0d68hMvK3ttO5madS1MnBXSQNDarPsQ_zIjeBJk" />
-<link rel="canonical" href="http://www.expert-omsk.ru/" />
+<style type="text/css">.sub-menu .menu-item span{text-transform: uppercase;}</style>
+<link rel="canonical" href="http://www.expert-omsk.ru/fotoalbomy-3/" />
 			<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -160,7 +156,7 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 </style>
 </head>
 
-<body class="home page page-id-679 page-template-default custom-background">
+<body class="page page-id-1497 page-template-default custom-background">
 <div class="content-pad">
 <div id="header">
 	<div id="logo"><a href="http://www.expert-omsk.ru"><img src="http://www.expert-omsk.ru/wp-content/uploads/2014/09/title7.png" border="0" class="png" alt="Независимая потребительская экспертиза и оценка" /></a></div>        
@@ -174,7 +170,7 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 
 <div class="top">
     <div id="menu">	
-       <ul id="nav-ie" class="topnav fl fr sf-js-enabled sf-shadow"><li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-679 current_page_item menu-item-has-children menu-item-1392"><a href="http://www.expert-omsk.ru/"><span>Услуги</span></a>
+       <ul id="nav-ie" class="topnav fl fr sf-js-enabled sf-shadow"><li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1392"><a href="http://www.expert-omsk.ru/"><span>Услуги</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-736"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/"><span>Экспертиза и оценка после затопления</span></a></li>
 	<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-738"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-pozhara/"><span>Оценка ущерба от пожара</span></a>
@@ -247,7 +243,7 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 <div class="head-img">
 
         <div class="tagline">Экспертиза и оценка любого имущества</div>
-      <img src="http://www.expert-omsk.ru/wp-content/uploads/2014/04/header-3.png" width="970" height="225" alt="Header" />
+      <img src="http://www.expert-omsk.ru/wp-content/uploads/2014/04/header-2.png" width="970" height="225" alt="Header" />
     </div>
 <!-- END Header --> 
 <div id="main">		
@@ -256,57 +252,179 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
           							
 			<div class="post">
             	
-                <div class="title"><h2></h2></div>                
+                <div class="title"><h2>Фотоальбомы</h2></div>                
 				<div class="entry">
-                                          <style type="text/css">
-<!-- .post .entry {
-    margin-top: -26px !important;
-}</p>
-<p>-->
-</style>
-<table style="table-layout: fixed;" width="100%" border="0">
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-    </colgroup>
-<tbody>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img class="aligncenter size-thumbnail wp-image-1072" alt="Экспертиза общестроительных, Отделочных и ремонтных работ и услуг в части производства, монтажа и эксплуатации оконных и дверных блоков" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/strotelnaya-expertisa-150x150.png" width="150" height="150" /><strong><a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Строительно-техническая экспертиза<br />
-</a></strong><a title="Перепланировка и переустройство жилого помещения" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/pereplanirovka-i-pereustrojstvo-zhilogo-pomeshheniya/" target="_blank"> Перепланировка жилого помещения</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Техническое обследование зданий</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Экспертиза качества строительных работ</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Экспертиза качества отделочных работ</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Оценка стоимости устранения дефектов</a><br />
-                <a title="ЭКСПЕРТИЗА ПРИЧИН И ОЦЕНКА УЩЕРБА ПОСЛЕ ЗАЛИВА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/">Экспертиза причин затопления</a></td>
-<td style="text-align: center; vertical-align: top;"><img alt="Экспертиза пластиковых окон и дверей" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/expertisa-okon-150x150.png" width="150" height="150" /></p>
-<p></strong><a title="Экспертиза конструкций оконных блоков" href="http://www.expert-omsk.ru/uslugi/ekspertiza-konstruktsiy-okonnykh-blokov/" target="_blank">Экспертиза конструкций оконных блоков</a><br />
-                <a title="Экспертиза дверных блоков" href="/uslugi/ekspertiza-dvernyx-blokov/">Экспертиза дверных блоков</a></td>
-</tr>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img alt="Экспертиза бытовой техники. Экспертиза мебели" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/expertisa-tovarov-150x150.png" width="150" height="150" /></p>
-<p> </strong><a title="Экспертиза мебели" href="http://www.expert-omsk.ru/uslugi/ekspertiza-mebeli/">Экспертиза мебели</a><br />
-<a title="Экспертиза бытовой техники" href="uslugi/ekspertiza-bytovoj-texniki/">Экспертиза бытовой техники</a></td>
-<td style="text-align: center; vertical-align: top;"><strong><img class="aligncenter size-thumbnail wp-image-1105" alt="Оценка ущерба" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/ущерб-150x150.png" width="150" height="150" /><a title="ОЦЕНКА УЩЕРБА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba/">Оценка ущерба</a></strong><br />
-                <a title="ЭКСПЕРТИЗА ПРИЧИН И ОЦЕНКА УЩЕРБА ПОСЛЕ ЗАЛИВА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/">Оценка ущерба после затопления</a><br />
-                <a title="ОЦЕНКА УЩЕРБА ОТ ПОЖАРА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-pozhara/">Оценка ущерба после пожара</a></td>
-</tr>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img alt="исследование технического состояния транспортных средств, их частей, узлов, агрегатов" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/autoexpertisa-150x150.png" width="150" height="150" /><br />
-                <strong><a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Автоэкспертиза</a><br />
-</strong><a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Установление технического состояния авто</a><br />
-                <a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Экспертиза узлов и агрегатов</a></td>
-<td style="vertical-align: top; text-align: center;"><img alt="Оценка всех видов имущества" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/ocenka-150x150.png" width="150" height="150" /><br />
-                <strong>Оценка всех видов имущества<br />
-</strong>Оценка недвижимости<br />
-                <a title="Оценка спецтехники" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка автомобилей</a><br />
-                <a title="Оценка спецтехники" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка спецтехники</a><br />
-                <a title="ОЦЕНКА ОБОРУДОВАНИЯ" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка оборудования</a></td>
-</tr>
-</tbody>
-</table>
-<p><!-- begin of Dorus.ru code --><br />
-<a target="_blank" href="http://omsk.dorus.ru/"><img src="http://www.dorus.ru/images/dorus.gif" width="88" height="31" title="Бесплатные объявления газета мытищи" border="0" /></a><br />
-<!-- end of Dorus.ru code --></p>
+                                          
+<!-- Start WPPA+ generated code -->
+<div id="wppa-container-1" style="clear: both; width:640px; padding:0;" class="wppa-container wppa-container-1 wppa-rev-5220 wppa-prevrev-100 wppa-theme-5-1-19 wppa-api-5-2-20-000" >
+	<input type="hidden" id="wppa-nonce" name="wppa-nonce" value="554524a3ff" />
+	<script type="text/javascript">
+	wppaAutoColumnWidth[1] = false;
+	wppaColWidth[1] = 640;
+	wppaTopMoc = 1;
+	wppaAspectRatio[1] = 0.75;
+	wppaFullSize[1] = 640;
+	wppaFullFrameDelta[1] = 0;
+	wppaFilmStripLength[1] = 554;
+	wppaThumbnailPitch[1] = 104;
+	wppaFilmStripMargin[1] = 2;
+	wppaFilmStripAreaDelta[1] = 98;
+	wppaIsMini[1] = false;
+	wppaSlideBlank[1] = false;
+	</script>
+	<div id="wppa-thumbarea-1" style="clear: both; border-style: solid; border-width:1px; border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px; -webkit-border-radius:6px; margin-bottom:8px; background-color:#fff; border-color:#fff; width: 626px;" class="thumbnail-area thumbnail-area-1 wppa-box wppa-alt" >
+		<div id="wppa-popup-1" class="wppa-popup-frame wppa-thumb-text" style="font-weight:normal; " onmouseout="wppaPopDown(1);" ></div>
+		<div style="clear:both;"></div>
+		<div id="thumbnail_frame_72_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-72" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=72&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-72-1">
+				<img id="i-72-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/72.png?ver=1"  alt="Неправильная установка наружной входной двери"  title="Неправильная установка наружной входной двери" width="100" height="74" style=" border-width: 0px; width:100px; height:74px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 72, 'Неправильная установка наружной входной двери', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Металлический дверной блок установлен в жилом доме как наружная входная дверь.&lt;/p&gt; \n&lt;p style=&quot;text-align: justify;&quot;&gt;Имеет место образование конденсата на металлических поверхностях дверного блока, что недопустимо и является нарушением требований ГОСТ.&lt;/p&gt; \n&lt;p style=&quot;text-align: justify;&quot;&gt;По конструкции узлов примыкания и по конструкции металлического дверного полотна, дверной блок предназначен для эксплуатации внутри здания, например как входная дверь в квартиру.\n&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Неправильная установка наружной входной двери</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Металлический дверной блок установлен в жилом доме как наружная входная дверь.</p> 
+<p style="text-align: justify;">Имеет место образование конденсата на металлических поверхностях дверного блока, что недопустимо и является нарушением требований ГОСТ.</p> 
+<p style="text-align: justify;">По конструкции узлов примыкания и по конструкции металлического дверного полотна, дверной блок предназначен для эксплуатации внутри здания, например как входная дверь в квартиру.
+</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_72_1 -->
+		<div id="thumbnail_frame_69_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-69" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=69&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-69-1">
+				<img id="i-69-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/69.png?ver=1"  alt="Трещины дерева свода арки"  title="Трещины дерева свода арки" width="100" height="71" style=" border-width: 0px; width:100px; height:71px; margin-top: 15px; margin-bottom: 15px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 69, 'Трещины дерева свода арки', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Межкомнатная деревянная арка из массива дерева с лаковым защитным слоем. Имеются многочисленные трещины вдоль волокон массива дерева свода арки.&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Трещины дерева свода арки</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Межкомнатная деревянная арка из массива дерева с лаковым защитным слоем. Имеются многочисленные трещины вдоль волокон массива дерева свода арки.</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_69_1 -->
+		<div id="thumbnail_frame_71_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-71" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=71&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-71-1">
+				<img id="i-71-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/71.png?ver=1"  alt="Повреждение обналички дверного блока"  title="Повреждение обналички дверного блока" width="100" height="39" style=" border-width: 0px; width:100px; height:39px; margin-top: 31px; margin-bottom: 31px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 71, 'Повреждение обналички дверного блока', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Имеются увеличенные зазоры в угловых сопряжениях элементов дверной коробки&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Повреждение обналички дверного блока</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Имеются увеличенные зазоры в угловых сопряжениях элементов дверной коробки</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_71_1 -->
+		<div id="thumbnail_frame_70_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-70" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=70&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-70-1">
+				<img id="i-70-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/70.png?ver=1"  alt="Повреждение обналички дверного блока"  title="Повреждение обналички дверного блока" width="100" height="76" style=" border-width: 0px; width:100px; height:76px; margin-top: 12px; margin-bottom: 12px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 70, 'Повреждение обналички дверного блока', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Имеются повреждения, что недопустимо и не соответствует требованиям ГОСТ&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Повреждение обналички дверного блока</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Имеются повреждения, что недопустимо и не соответствует требованиям ГОСТ</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_70_1 -->
+		<div id="thumbnail_frame_77_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-77" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=77&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-77-1">
+				<img id="i-77-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/77.png?ver=1"  alt="Провисание дверного полотна"  title="Провисание дверного полотна" width="100" height="62" style=" border-width: 0px; width:100px; height:62px; margin-top: 19px; margin-bottom: 19px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 77, 'Провисание дверного полотна', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Имеется провисание дверного полотна, что недопустимо не соответствует требованиям ГОСТ.&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Провисание дверного полотна</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Имеется провисание дверного полотна, что недопустимо не соответствует требованиям ГОСТ.</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_77_1 -->
+		<div id="thumbnail_frame_76_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-76" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=76&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-76-1">
+				<img id="i-76-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/76.png?ver=1"  alt="Отслоения и сколы облицовки из шпона"  title="Отслоения и сколы облицовки из шпона" width="100" height="77" style=" border-width: 0px; width:100px; height:77px; margin-top: 12px; margin-bottom: 12px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 76, 'Отслоения и сколы облицовки из шпона', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Имеются повреждения, отслоение облицовки из шпона и сколы&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Отслоения и сколы облицовки из шпона</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Имеются повреждения, отслоение облицовки из шпона и сколы</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_76_1 -->
+		<div id="thumbnail_frame_75_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-75" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=75&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-75-1">
+				<img id="i-75-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/75.png?ver=1"  alt="Дефект установки дверного обналичника"  title="Дефект установки дверного обналичника" width="100" height="69" style=" border-width: 0px; width:100px; height:69px; margin-top: 16px; margin-bottom: 16px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 75, 'Дефект установки дверного обналичника', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Имеется разный уровень сопряжения декоративного наличника обрамления дверного проема, что ухудшает внешний вид и эстетическое восприятие двери в плане интерьера.&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Дефект установки дверного обналичника</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Имеется разный уровень сопряжения декоративного наличника обрамления дверного проема, что ухудшает внешний вид и эстетическое восприятие двери в плане интерьера.</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_75_1 -->
+		<div id="thumbnail_frame_73_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-73" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=73&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-73-1">
+				<img id="i-73-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/73.png?ver=1"  alt="Дефект установки дверного замка"  title="Дефект установки дверного замка" width="100" height="64" style=" border-width: 0px; width:100px; height:64px; margin-top: 18px; margin-bottom: 18px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 73, 'Дефект установки дверного замка', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Засов замка не утапливается за лицевую планку замка при повороте дверной ручки до упора, что является ненадежностью работы замочного врезного изделия и нарушением требования ГОСТ.&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Дефект установки дверного замка</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Засов замка не утапливается за лицевую планку замка при повороте дверной ручки до упора, что является ненадежностью работы замочного врезного изделия и нарушением требования ГОСТ.</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_73_1 -->
+		<div id="thumbnail_frame_74_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-74" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=74&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-74-1">
+				<img id="i-74-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/74.png?ver=1"  alt="Трещины на облицовке из шпона"  title="Трещины на облицовке из шпона" width="100" height="85" style=" border-width: 0px; width:100px; height:85px; margin-top: 8px; margin-bottom: 8px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 74, 'Трещины на облицовке из шпона', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;По торцу дверного полотна имеется углубление с образованием трещин на облицовке из шпона, что свидетельствует о дефекте обработки (механическое повреждение) деревянных брусков обвязки дверного полотна под облицовкой из шпона.&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Трещины на облицовке из шпона</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">По торцу дверного полотна имеется углубление с образованием трещин на облицовке из шпона, что свидетельствует о дефекте обработки (механическое повреждение) деревянных брусков обвязки дверного полотна под облицовкой из шпона.</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_74_1 -->
+		<div id="thumbnail_frame_79_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-79" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=79&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-79-1">
+				<img id="i-79-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/79.png?ver=1"  alt="Некачественная установка петель в дверном полотне"  title="Некачественная установка петель в дверном полотне" width="100" height="76" style=" border-width: 0px; width:100px; height:76px; margin-top: 12px; margin-bottom: 12px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 79, 'Некачественная установка петель в дверном полотне', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Некачественно произведена врезка в местах установки петель в дверном полотне, что снижает эстетичный вид изделия.&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Некачественная установка петель в дверном полотне</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Некачественно произведена врезка в местах установки петель в дверном полотне, что снижает эстетичный вид изделия.</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_79_1 -->
+		<div id="thumbnail_frame_78_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-78" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=78&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-78-1">
+				<img id="i-78-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/78.png?ver=1"  alt="Дефекты дверных конструкций"  title="Дефекты дверных конструкций" width="100" height="72" style=" border-width: 0px; width:100px; height:72px; margin-top: 14px; margin-bottom: 14px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 78, 'Дефекты дверных конструкций', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Зазоры в стыках уплотнений, заусенцы металла профиля, повреждение профиля и ЛКП&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Дефекты дверных конструкций</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Зазоры в стыках уплотнений, заусенцы металла профиля, повреждение профиля и ЛКП</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_78_1 -->
+		<div id="thumbnail_frame_80_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-80" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=80&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-80-1">
+				<img id="i-80-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/80.png?ver=1"  alt="Дефект замка дверной конструкции."  title="Дефект замка дверной конструкции." width="100" height="66" style=" border-width: 0px; width:100px; height:66px; margin-top: 17px; margin-bottom: 17px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 80, 'Дефект замка дверной конструкции.', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;&lt; В закрытом состоянии засов замка входит в дверную коробку на глубину 10 мм, что недопустимо и не соответствует требованиям ГОСТ/p&gt;\n&lt;/p&gt;&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Дефект замка дверной конструкции.</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">< В закрытом состоянии засов замка входит в дверную коробку на глубину 10 мм, что недопустимо и не соответствует требованиям ГОСТ/p>
+</p></div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_80_1 -->
+		<div id="thumbnail_frame_81_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-81" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=6&amp;wppa-photo=81&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-81-1">
+				<img id="i-81-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/81.png?ver=1"  alt="Некачественная установка штапика остекления"  title="Некачественная установка штапика остекления" width="100" height="79" style=" border-width: 0px; width:100px; height:79px; margin-top: 11px; margin-bottom: 11px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 81, 'Некачественная установка штапика остекления', '&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Некачественно закреплены штапики (обкладки) остекления, штапик выпадает, в угловой прирезки штапик установлен с разным уровнем.&lt;/p&gt;\n&lt;/div&gt;', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Некачественная установка штапика остекления</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ><div style="height: 160px; overflow-y:auto;padding-right: 10px;">
+<p style="text-align: justify;">Некачественно закреплены штапики (обкладки) остекления, штапик выпадает, в угловой прирезки штапик установлен с разным уровнем.</p>
+</div></div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_81_1 -->
+		<div style="clear:both;"></div>
+	</div><!-- wppa-thumbarea-1 --><div style="clear:both;"></div>
+</div><!-- wppa-container-1 -->
+<!-- End WPPA+ generated code -->
     
                     <div class="clear"></div>
                 </div>   
@@ -397,9 +515,10 @@ box-shadow: 1px 1px 1px rgba(0,0,0,0.6);"/></a></div>
 							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=5&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза кровли</a>
 						</li>
 						<li class="anw-3--1" style="list-style:none; display:;">
-							<div style="width:12px;float:left;" >&nbsp;</div>
+							<div style="width:12px;float:left;" >&nbsp;&raquo;</div>
 							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=6&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза дверных блоков</a>
-						</li></ul></div><div style="clear:both"></div>
+						</li></ul><script type="text/javascript" >
+								jQuery('.anw-3-6').css('display',''); jQuery('.anw-3-6-').css('display','none');</script></div><div style="clear:both"></div>
 <!-- WPPA+ Album Navigator Widget end --></li> 
 </ul>  
     </div>    

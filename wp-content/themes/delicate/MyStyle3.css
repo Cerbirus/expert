@@ -1,0 +1,66 @@
+/*.MyJobImg {
+    width: auto;
+    height: auto;
+    display: block;
+    border-radius:5px;
+}
+.MyJobImgRow{
+    display: inline-flex;
+}
+.MyJobImg img {
+
+    width: 40%;
+    height: 40%;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 7px;
+    padding: 0px;
+    position:relative;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.2);
+}*/
+
+.MyJobImg {
+    width: auto;
+    height: auto;
+    display: block;
+    border-radius:5px;
+}
+
+.MyJobImgRow{
+    display: inline-flex;
+}
+
+.MyJobImg img {
+
+    width: 95%;
+    height: 95%;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 7px;
+    padding: 0px;
+    position:relative;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.2);
+}
+
+.img-b {
+     width: 40%;
+    height: 40%;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 7px;
+    padding: 0px;
+    position:relative;
+    z-index: 9;
+}
+
+.btnAdd {
+    background: url(/wp-content/uploads/wppa/109.png?ver=1) 0 0 no-repeat;
+    cursor: pointer;
+    height: 34px;
+    position: relative;
+    top: 34px;
+    width: 34px;
+    right: -7px;
+    z-index: 8;
+    float: right;
+}

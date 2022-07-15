@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Фотоальбомы | Независимая потребительская экспертиза и оценка</title>
+
+<!-- Style sheets -->
+<link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/style.css" media="screen" />
+
+<!------------------------ Мои CSS ------------------------>
+<link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/MyStyle3.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/js/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen"/>
+<link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/js/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7"/>
+<link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/js/jqueryui/jquery-ui.css"/>
+<!--<link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/js/Sizzle/sizzle1.css"/>-->
+<!------------------------ Мои CSS ------------------------>
+
+<style type="text/css">
+	body {
+		font-size: 12px;
+	}
+	.post {
+		color: #4D4D4F;
+	}
+	.post a {
+		color: #0E73B8;
+	}
+	.post a:hover {
+		color: #f20000;
+	}
+</style>
+<link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента" href="http://www.expert-omsk.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента комментариев" href="http://www.expert-omsk.ru/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента комментариев к &laquo;Фотоальбомы&raquo;" href="http://www.expert-omsk.ru/fotoalbomy-3/feed/" />
+<link rel='stylesheet' id='wppa_style-css'  href='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/theme/wppa-style.css?ver=5-2-20-000' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.expert-omsk.ru/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.expert-omsk.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/wppa.min.js?ver=5-2-20-000'></script>
+<script type='text/javascript' src='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/wppa.init.ru.js?ver=143'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.expert-omsk.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.expert-omsk.ru/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Экспертиза окон и дверей' href='http://www.expert-omsk.ru/uslugi/ekspertiza-okon-i-dverei/' />
+<link rel='next' title='Форма публикации' href='http://www.expert-omsk.ru/rcl-postedit/' />
+<meta name="generator" content="WordPress 3.8.1" />
+<link rel='shortlink' href='http://www.expert-omsk.ru/?p=1497' />
+
+<!-- WPPA+ Share data -->
+<meta property="og:site_name" content="Независимая потребительская экспертиза и оценка" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&amp;wppa-photo=30&amp;wppa-cover=0&amp;wppa-occur=1&amp;wppa-single=1" /><!-- dynamicly updated -->
+<meta property="og:title" content="Недостаточное количество крепежных элементов оконного блока" /><!-- dynamicly updated -->
+<meta property="og:image" content="http://www.expert-omsk.ru/wp-content/uploads/wppa/30.png?ver=1" /><!-- dynamicly updated -->
+<meta property="og:description" content="See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Недостаточное количество крепежных элементов и увеличенное расстояние от внутреннего угла коробки оконного блока до крепежного элемента до 230 мм без учета толщины профиля рамы.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Минимальные расстояния от внутреннего угла коробки оконного блока до крепежного элемента не должны превышать 150-180 мм (с учетом толщины профиля рамы), а расстояние от импостного соединения до крепежного элемента - (120-180) мм.&lt;/p&gt;&lt;/div&gt;" /><!-- dynamicly updated -->
+<!-- WPPA+ End Share data -->
+<meta name="template" content="delicate 3.5" />
+<meta name="generator" content="NattyWP Framework Version 2.0" />
+<meta name="description" content="Экспертиза и оценка любого имущества " />
+<link rel="icon" href="http://www.expert-omsk.ru/wp-content/themes/delicate/images/icons/meta-tags.gif" /><link rel="shortcut icon" href="http://www.expert-omsk.ru/wp-content/themes/delicate/images/icons/meta-tags.gif" />
+<link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/functions/css/shortcodes.css" media="screen" /><script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/functions/js/shortcode.js"></script>
+<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[119,245] -->
+<link rel="author" href="https://plus.google.com/u/0/b/117263384751577198670/117263384751577198670/about" />
+<style type="text/css">.sub-menu .menu-item span{text-transform: uppercase;}</style>
+<link rel="canonical" href="http://www.expert-omsk.ru/fotoalbomy-3/" />
+			<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-49093348-1');
+			ga('send', 'pageview');
+			</script>
+		<script type="text/javascript">
+		function recordOutboundLink(link, category, action) {
+					ga('send', 'event', category, action);
+					if ( link.target == '_blank' ) return true;
+			setTimeout('document.location = "' + link.href + '"', 100);
+			return false;
+		}
+			/* use regular Javascript for this */
+			function getAttr(ele, attr) {
+				var result = (ele.getAttribute && ele.getAttribute(attr)) || null;
+				if( !result ) {
+					var attrs = ele.attributes;
+					var length = attrs.length;
+					for(var i = 0; i < length; i++)
+					if(attr[i].nodeName === attr) result = attr[i].nodeValue;
+				}
+				return result;
+			}
+			function aiosp_addLoadEvent(func) {
+			  var oldonload = window.onload;
+			  if (typeof window.onload != 'function') {
+			    window.onload = func;
+			  } else {
+			    window.onload = function() {
+			      if (oldonload) {
+			        oldonload();
+			      }
+			      func();
+			    }
+			  }
+			}
+
+			aiosp_addLoadEvent(function () {
+				var links = document.getElementsByTagName('a');
+				for (var x=0; x < links.length; x++) {
+					if (typeof links[x] == 'undefined') continue;
+					if (typeof links[x].onclick != 'undefined') continue;
+					links[x].onclick = function () {
+						var mydomain = new RegExp(document.domain, 'i');
+						href = getAttr(this, 'href');
+						if(href && href.toLowerCase().indexOf('http') === 0 && !mydomain.test(href)) {
+							recordOutboundLink(this, 'Outbound Links', href);
+						}
+					}
+				}
+			});
+		</script>
+<!-- /all in one seo pack -->
+	<style type="text/css">
+           .head-img .tagline {color: #333333 !important;}
+    	</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #eff6ff; background-image: url('http://www.expert-omsk.ru/wp-content/uploads/2014/09/background8.png'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+
+		
+<!-- WPPA+ Kickoff -->
+<!-- Browser detected = Wget/1.20.3 (linux-gnu) -->
+<!-- Rendering enabled -->
+<!-- /WPPA Kickoff -->
+
+	
+<!-- Feed link -->
+<link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка RSS Feed" href="http://www.expert-omsk.ru/feed/" />
+<link rel="pingback" href="http://www.expert-omsk.ru/xmlrpc.php" />
+
+<!-- jQuery utilities -->
+<script type="text/javascript">var themePath = 'http://www.expert-omsk.ru/wp-content/themes/delicate/'; // for js functions </script>
+<script type="text/javascript">var $j = jQuery.noConflict();</script>
+<script type='text/javascript' src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/superfish.js?ver=2.9.2"></script>
+<script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/jquery.cycle.all.min.js"></script>
+
+
+
+<!--[if IE 6]>
+		<script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/menu.js"></script>
+    	<link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/ie6.css" />
+        <style type="text/css">
+            img.png {
+            filter: expression(
+            (runtimeStyle.filter == '') ? runtimeStyle.filter = 'progid:DXImageTransform.Microsoft.AlphaImageLoader(src='+src+', sizingMethod=scale)' : '',
+            width = width,
+            src = 'http://www.expert-omsk.ru/wp-content/themes/delicate/images/px.gif');
+    }
+        </style>
+	<![endif]-->
+    
+    <!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.expert-omsk.ru/wp-content/themes/delicate/ie7.css" />
+	<![endif]-->
+<style type="text/css">
+</style>
+</head>
+
+<body class="page page-id-1497 page-template-default custom-background">
+<div class="content-pad">
+<div id="header">
+	<div id="logo"><a href="http://www.expert-omsk.ru"><img src="http://www.expert-omsk.ru/wp-content/uploads/2014/09/title7.png" border="0" class="png" alt="Независимая потребительская экспертиза и оценка" /></a></div>        
+  <div id="top_search"> 
+                              <form method="get" id="searchforma" class="search" action="http://www.expert-omsk.ru/">	
+                             <input type="text" class="search-input png_crop" title="search" value="Search" onblur="if (!value)value='Search'" onclick="value=''" id="edit-search-theme-form-keys" name="s" />
+                            <input type="image" alt="Search" title="Search" class="search-submit png_crop" name="op" value="" src="http://www.expert-omsk.ru/wp-content/themes/delicate/images/submit.png"/>
+                        </form>						
+<div style="clear:both;"></div>  </div>
+</div>
+
+<div class="top">
+    <div id="menu">	
+       <ul id="nav-ie" class="topnav fl fr sf-js-enabled sf-shadow"><li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1392"><a href="http://www.expert-omsk.ru/"><span>Услуги</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-736"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/"><span>Экспертиза и оценка после затопления</span></a></li>
+	<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-738"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-pozhara/"><span>Оценка ущерба от пожара</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1904"><a href="http://www.expert-omsk.ru/vosstanovitelnye-raboty-po-remontu-posle-pozhara-v-zhilom-dome/"><span>Наши работы: Восстановительные работы по ремонту после пожара в жилом доме.</span></a></li>
+		<li id="menu-item-1941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1941"><a href="http://www.expert-omsk.ru/vosstanovitelnye-raboty-po-remontu-posle-pozhara-i-zatopleniya-v-zhilom-dome/"><span>Наши работы: Восстановительные работы по ремонту после пожара и затопления в жилом доме.</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-733"><a href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/"><span>Строительно-техническая экспертиза</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746"><a href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/kategorii-i-kriterii-ocenki-defektov/"><span>Категории и критерии оценки дефектов</span></a></li>
+		<li id="menu-item-748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/stroitelnye-nedodelki-v-novostrojkax/"><span>Строительные недоделки</span></a></li>
+		<li id="menu-item-749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749"><a href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/chto-takoe-stroitelnyj-brak/"><span>Что такое строительный брак</span></a></li>
+		<li id="menu-item-1582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1582"><a href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/pereplanirovka-i-pereustrojstvo-zhilogo-pomeshheniya/"><span>Перепланировка и переустройство жилого помещения</span></a></li>
+		<li id="menu-item-1684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1684"><a href="http://www.expert-omsk.ru/2019/01/22/ekspertiza-na-prigodnost-kvartiry-ili-zhilogo-doma-dlya-prozhivaniya/"><span>Экспертиза на пригодность квартиры или жилого дома для проживания</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="http://www.expert-omsk.ru/uslugi/ekspertiza-konstruktsiy-okonnykh-blokov/"><span>Экспертиза конструкций оконных блоков</span></a></li>
+	<li id="menu-item-1420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1420"><a href="http://www.expert-omsk.ru/uslugi/ekspertiza-dvernyx-blokov/"><span>Экспертиза дверных блоков</span></a></li>
+	<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="http://www.expert-omsk.ru/uslugi/ekspertiza-mebeli/"><span>Экспертиза мебели</span></a></li>
+	<li id="menu-item-1851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1851"><a href="http://expert-omsk.ru/uslugi/ekspertiza-bytovoj-texniki/"><span>Экспертиза бытовой техники</span></a></li>
+	<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/"><span>Автоэкспертиза технического состояния</span></a></li>
+	<li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="http://www.expert-omsk.ru/uslugi/ocenka-avtomobilya-posle-dtp/"><span>ОЦЕНКА АВТОМОБИЛЯ ПОСЛЕ ДТП</span></a></li>
+	<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739"><a href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/"><span>Оценка оборудования</span></a></li>
+	<li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-737"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba/"><span>Оценка ущерба</span></a></li>
+</ul>
+</li>
+<li id="menu-item-743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743"><a href="http://www.expert-omsk.ru/stoimost-uslug/"><span>Стоимость услуг</span></a></li>
+<li id="menu-item-1169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1169"><a href="http://www.expert-omsk.ru/category/nashi-raboty/"><span>Наши работы</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1721"><a href="http://www.expert-omsk.ru/2019/02/03/nash-opyt/"><span>Наш опыт</span></a></li>
+	<li id="menu-item-1396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1396"><a href="/2014/04/11/defekty-proizvodstva-i-montazha-kuxonnoj-garnitury/"><span>Дефекты производства и монтажа кухонного гарнитура</span></a></li>
+	<li id="menu-item-1395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1395"><a href="/2014/04/03/zaklinivanie-dvigatelya-v-sledstvii-gidroudara/"><span>Заклинивание двигателя в следствии гидроудара</span></a></li>
+	<li id="menu-item-1394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1394"><a href="/2014/04/03/varochnaya-panel-iz-stekla-vzorvalas/"><span>Варочная панель из стекла «взорвалась»</span></a></li>
+	<li id="menu-item-1393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1393"><a href="/2014/04/02/sistema-ventilyacii-v-kvartire/"><span>Система вентиляции в квартире</span></a></li>
+	<li id="menu-item-1564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1564"><a href="http://www.expert-omsk.ru/pereplanirovka/"><span>Перепланировка</span></a></li>
+	<li id="menu-item-1637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1637"><a href="http://www.expert-omsk.ru/2019/01/12/organizaciya-dvernogo-proema-v-nesushhej-stene/"><span>Организация дверного проема в несущей стене.</span></a></li>
+	<li id="menu-item-1671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1671"><a href="http://www.expert-omsk.ru/2019/01/13/ocenka-stoimosti-vosstanovitelnyx-rabot-posle-zatopleniya-2/"><span>Возмещение материального ущерба, причиненного имуществу затоплением квартиры</span></a></li>
+	<li id="menu-item-1784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1784"><a href="http://www.expert-omsk.ru/zhilye-doma-blokirovannoj-zastrojki/"><span>Жилые дома блокированной застройки</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1170"><a href="http://www.expert-omsk.ru/category/poleznaya-informaciya/"><span>Полезная информация</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1800"><a href="http://http://www.expert-omsk.ru/2019/12/14/uk-ne-sostavlyaet-akt-o-zatoplenii-kvartiry/"><span>УК не составляет акт о затоплении квартиры.</span></a></li>
+	<li id="menu-item-1807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1807"><a href="http://http://www.expert-omsk.ru/2019/12/14/menya-zalili-kogda-mne-priglashat-ocenshhika/"><span>Меня залили – когда мне приглашать оценщика?</span></a></li>
+	<li id="menu-item-1814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1814"><a href="http://http://www.expert-omsk.ru/2019/12/15/uchityvaetsya-li-iznos-pri-ocenke-ushherba-ot-zaliva/"><span>Учитывается ли износ при оценке ущерба от залива?</span></a></li>
+	<li id="menu-item-1829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1829"><a href="http://www.expert-omsk.ru/?p=1816&#038;preview=true"><span>О правах потребителей при покупке мебели.</span></a></li>
+	<li id="menu-item-1403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1403"><a href="/2014/09/23/priemka-kvartiry-v-novostrojke/"><span>Приемка квартиры в новостройке</span></a></li>
+	<li id="menu-item-1402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1402"><a href="/2014/09/08/zakonnyj-put-pereplanirovki/"><span>Законный путь перепланировки</span></a></li>
+	<li id="menu-item-1401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1401"><a href="/2014/06/20/punkty-priema-telegramm-s-uvedomleniem-o-eyo-vruchenii/"><span>Пункты приема телеграмм с уведомлением о её вручении</span></a></li>
+	<li id="menu-item-1400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1400"><a href="/2014/04/02/poryadok-attestacii-ekspertov-po-akkreditacii/"><span>Порядок аттестации экспертов по аккредитации</span></a></li>
+	<li id="menu-item-1399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1399"><a href="/2014/04/01/ushherb-ili-ubytki/"><span>Ущерб или убытки?</span></a></li>
+	<li id="menu-item-1398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1398"><a href="/2014/04/01/ravnopravie-storon-v-sude/"><span>Равноправие сторон в суде</span></a></li>
+	<li id="menu-item-1397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1397"><a href="/2014/04/01/o-poryadke-predostavleniya-kommunalnyx-uslug-grazhdanam/"><span>О порядке предоставления коммунальных услуг гражданам</span></a></li>
+	<li id="menu-item-1634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1634"><a href="http://www.expert-omsk.ru/2019/01/12/situaciya-protekaet-krovlya/"><span>Ситуация: протекает кровля.</span></a></li>
+</ul>
+</li>
+<li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-687"><a href="http://www.expert-omsk.ru/foto-galereya/"><span>Фотогалерея</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1539"><a href="http://www.expert-omsk.ru/foto-galereya/prichiny-zatopleniya/"><span>Причины затопления</span></a></li>
+	<li id="menu-item-1153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153"><a href="http://www.expert-omsk.ru/fotogalereya-ekspertiza-okon/"><span>Часто встречаемые дефекты оконных и дверных блоков</span></a></li>
+	<li id="menu-item-1256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1256"><a href="http://www.expert-omsk.ru/chasto-vstrechaemye-defekty-krovli/"><span>Часто встречаемые дефекты кровли</span></a></li>
+	<li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="http://www.expert-omsk.ru/foto-galereya/chasto-vstrechaemye-defekty-mebeli/"><span>Часто встречаемые дефекты мебели</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1373"><a href="http://www.expert-omsk.ru/o-kompanii/"><span>О компании</span></a></li>
+</ul>    </div>                
+</div> <!-- END top -->
+<div class="clear"></div>
+<div class="head-img">
+
+        <div class="tagline">Экспертиза и оценка любого имущества</div>
+      <img src="http://www.expert-omsk.ru/wp-content/uploads/2014/04/header-1.png" width="970" height="225" alt="Header" />
+    </div>
+<!-- END Header --> 
+<div id="main">		
+	<div class="columns">      
+    <div class="narrowcolumn singlepage">
+          							
+			<div class="post">
+            	
+                <div class="title"><h2>Фотоальбомы</h2></div>                
+				<div class="entry">
+                                          
+<!-- Start WPPA+ generated code -->
+<div id="wppa-container-1" style="clear: both; width:640px; padding:0;" class="wppa-container wppa-container-1 wppa-rev-5220 wppa-prevrev-100 wppa-theme-5-1-19 wppa-api-5-2-20-000" >
+	<input type="hidden" id="wppa-nonce" name="wppa-nonce" value="554524a3ff" />
+	<script type="text/javascript">
+	wppaAutoColumnWidth[1] = false;
+	wppaColWidth[1] = 640;
+	wppaTopMoc = 1;
+	wppaAspectRatio[1] = 0.75;
+	wppaFullSize[1] = 640;
+	wppaFullFrameDelta[1] = 0;
+	wppaFilmStripLength[1] = 554;
+	wppaThumbnailPitch[1] = 104;
+	wppaFilmStripMargin[1] = 2;
+	wppaFilmStripAreaDelta[1] = 98;
+	wppaIsMini[1] = false;
+	wppaSlideBlank[1] = false;
+	</script>
+<script type="text/javascript">wppaSlideInitRunning[1] = true;wppaMaxOccur = 1;</script>
+	<div id="prevnext1-1" class="wppa-box wppa-nav wppa-nav-text" style="text-align: center; border-style: solid; border-width:1px; border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px; -webkit-border-radius:6px; margin-bottom:8px; background-color:#fff; border-color:#fff; font-weight:normal; ">
+		<a id="speed0-1" class="wppa-nav-text speed0" style="font-weight:normal; " onclick="wppaSpeed(1, false); return false;">Медленнее</a> | 
+		<a id="startstop-1" class="wppa-nav-text startstop" style="font-weight:normal; " onclick="wppaStartStop(1, -1); return false;">Начать</a> | 
+		<a id="speed1-1" class="wppa-nav-text speed1" style="font-weight:normal; " onclick="wppaSpeed(1, true); return false;">Быстрее</a>
+	</div><!-- #prevnext1 -->
+	<noscript style="text-align:center; " ><span style="color:red; ">To see the full size images, you need to enable javascript in your browser.</span></noscript>
+	<div id="slide_frame-1" ontouchstart="wppaTouchStart(event,'slide_frame-1', 1);"  ontouchend="wppaTouchEnd(event);" ontouchmove="wppaTouchMove(event);" ontouchcancel="wppaTouchCancel(event);" onmouseover="wppaSlidePause[1] = 'Пауза'" onmouseout="wppaSlidePause[1] = false" class="slide-frame" style="overflow:hidden; height: 480px;width: 640px;margin-bottom: 8px;">
+		<div id="theslide0-1" class="theslide theslide-1" style="width:640px; " ></div>
+		<div id="theslide1-1" class="theslide theslide-1" style="width:640px; " ></div>
+		<div id="spinner-1" class="spinner" ></div>
+	</div>
+	<div id="namedesc-1" class="wppa-box wppa-name-desc" style="border-style: solid; border-width:1px; border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px; -webkit-border-radius:6px; margin-bottom:8px; background-color:#fff; border-color:#fff; " >
+		<div id="imagedesc-1" class="wppa-fulldesc imagedesc" style="font-weight:normal; padding:3px; width:100%; text-align:center"></div>
+		<div id="imagetitle-1" class="wppa-fulltitle imagetitle" style="font-weight:normal; padding:3px; width:100%"></div>
+	</div><!-- #namedesc --><script type="text/javascript">wppaFilmPageSize[1] = 5;</script>
+	<div class="wppa-box wppa-nav" style="text-align:center; border-style: solid; border-width:1px; border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px; -webkit-border-radius:6px; margin-bottom:8px; background-color:#fff; border-color:#fff; height:104px;">
+		<div style="float:left; text-align:left; cursor:pointer; margin-top:34px; width: 42px; font-size: 24px;">
+		<a class="wppa-prev-1 wppa-arrow" style="color:black; " id="prev-film-arrow-1" onclick="wppaPrevN(1,5);" title="5 назад" >&laquo;</a>
+		<a class="wppa-prev-1 wppa-arrow" style="color:black; " id="prev-film-arrow-1-1" onclick="wppaPrev(1);" title="Предыдущее" >&lsaquo;</a>
+		</div>
+		<div style="float:right; text-align:right; cursor:pointer; margin-top:34px; width: 42px; font-size: 24px;">
+		<a class="wppa-next-1 wppa-arrow" style="color:black; " id="next-film-arrow-1-1" onclick="wppaNext(1);" title="След." >&rsaquo;</a>
+		<a class="wppa-next-1 wppa-arrow" style="color:black; " id="next-film-arrow-1" onclick="wppaNextN(1,5);" title="5 вперед" >&raquo;</a>
+		</div>
+		<div id="filmwindow-1" class="filmwindow" style="width: 542px; display: block; height:104px; margin: 0 0 0 42px; overflow:hidden;">
+		<div id="wppa-filmstrip-1" style="height:100px; width:2190px; margin-left: -100px;">
+			<style type="text/css" >
+				#wppa-container-1 .thumbnail-frame { width: 100px; height: 100px; margin-left: 4px; margin-top: 2px; margin-bottom: 2px; }
+				.wppa-filmthumb-active { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+			</style>
+				<div id="pre_wppatnf_30_1" class="thumbnail-frame"  ><img id="wppa-pre-9-1" class="wppa-pre-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/30.png?ver=1" alt="Недос..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 9);"  onclick="wppaGoto(1, 9)" ondblclick="wppaStartStop(1, -1)" /></div>
+				<div id="pre_wppatnf_31_1" class="thumbnail-frame"  ><img id="wppa-pre-10-1" class="wppa-pre-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/31.png?ver=1" alt="Образ..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 10);"  onclick="wppaGoto(1, 10)" ondblclick="wppaStartStop(1, -1)" /></div>
+				<div id="pre_wppatnf_32_1" class="thumbnail-frame"  ><img id="wppa-pre-11-1" class="wppa-pre-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/32.png?ver=1" alt="Негер..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 11);"  onclick="wppaGoto(1, 11)" ondblclick="wppaStartStop(1, -1)" /></div>
+				<div id="pre_wppatnf_33_1" class="thumbnail-frame" style="width: 100px; height: 100px; margin-left: 4px; margin-top: 2px; margin-bottom: 2px;" ><img id="wppa-pre-12-1" class="wppa-pre-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/33.png?ver=1" alt="Непра..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 12);"  onclick="wppaGoto(1, 12)" ondblclick="wppaStartStop(1, -1)" /></div>
+				<div id="film_wppatnf_21_1" class="thumbnail-frame"  ><!--<img id="wppa-film-0-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/21.png?ver=1" alt="Трещи..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 0);"  onclick="wppaGoto(1, 0)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_22_1" class="thumbnail-frame"  ><!--<img id="wppa-film-1-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/22.png?ver=1" alt="Разру..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 1);"  onclick="wppaGoto(1, 1)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_23_1" class="thumbnail-frame"  ><!--<img id="wppa-film-2-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/23.png?ver=1" alt="Непра..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 2);"  onclick="wppaGoto(1, 2)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_24_1" class="thumbnail-frame"  ><!--<img id="wppa-film-3-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/24.png?ver=1" alt="Дефек..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 3);"  onclick="wppaGoto(1, 3)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_25_1" class="thumbnail-frame"  ><!--<img id="wppa-film-4-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/25.png?ver=1" alt="Ошибк..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 4);"  onclick="wppaGoto(1, 4)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_26_1" class="thumbnail-frame"  ><!--<img id="wppa-film-5-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/26.png?ver=1" alt="Трещи..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 5);"  onclick="wppaGoto(1, 5)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_27_1" class="thumbnail-frame"  ><!--<img id="wppa-film-6-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/27.png?ver=1" alt="Герме..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 6);"  onclick="wppaGoto(1, 6)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_28_1" class="thumbnail-frame"  ><!--<img id="wppa-film-7-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/28.png?ver=1" alt="Потек..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 7);"  onclick="wppaGoto(1, 7)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_29_1" class="thumbnail-frame"  ><!--<img id="wppa-film-8-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/29.png?ver=1" alt="Образ..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 8);"  onclick="wppaGoto(1, 8)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_30_1" class="thumbnail-frame"  ><!--<img id="wppa-film-9-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/30.png?ver=1" alt="Недос..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 9);"  onclick="wppaGoto(1, 9)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_31_1" class="thumbnail-frame"  ><!--<img id="wppa-film-10-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/31.png?ver=1" alt="Образ..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 10);"  onclick="wppaGoto(1, 10)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_32_1" class="thumbnail-frame"  ><!--<img id="wppa-film-11-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/32.png?ver=1" alt="Негер..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 11);"  onclick="wppaGoto(1, 11)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="film_wppatnf_33_1" class="thumbnail-frame" style="width: 100px; height: 100px; margin-left: 4px; margin-top: 2px; margin-bottom: 2px;" ><!--<img id="wppa-film-12-1" class="wppa-film-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/33.png?ver=1" alt="Непра..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 12);"  onclick="wppaGoto(1, 12)" ondblclick="wppaStartStop(1, -1)" />--></div>
+				<div id="pre_wppatnf_21_1" class="thumbnail-frame"  ><img id="wppa-pre-0-1" class="wppa-pre-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/21.png?ver=1" alt="Трещи..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 0);"  onclick="wppaGoto(1, 0)" ondblclick="wppaStartStop(1, -1)" /></div>
+				<div id="pre_wppatnf_22_1" class="thumbnail-frame"  ><img id="wppa-pre-1-1" class="wppa-pre-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/22.png?ver=1" alt="Разру..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 1);"  onclick="wppaGoto(1, 1)" ondblclick="wppaStartStop(1, -1)" /></div>
+				<div id="pre_wppatnf_23_1" class="thumbnail-frame"  ><img id="wppa-pre-2-1" class="wppa-pre-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/23.png?ver=1" alt="Непра..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 2);"  onclick="wppaGoto(1, 2)" ondblclick="wppaStartStop(1, -1)" /></div>
+				<div id="pre_wppatnf_24_1" class="thumbnail-frame"  ><img id="wppa-pre-3-1" class="wppa-pre-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/24.png?ver=1" alt="Дефек..." style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaGotoFilmNoMove(1, 3);"  onclick="wppaGoto(1, 3)" ondblclick="wppaStartStop(1, -1)" /></div>
+		</div>
+	</div>
+</div>
+<div id="prevnext2-1" class="wppa-box wppa-nav wppa-nav-text" style="text-align: center; border-style: solid; border-width:1px; border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px; -webkit-border-radius:6px; margin-bottom:8px; background-color:#fff; border-color:#fff; font-weight:normal; ">
+	<a id="prev-arrow-1" class="wppa-prev-1 wppa-nav-text arrow-1" style="float:left; text-align:left; cursor:pointer; font-weight:normal; " onclick="wppaPrev(1)" ></a>
+	<a id="next-arrow-1" class="wppa-next-1 wppa-nav-text arrow-1" style="float:right; text-align:right; cursor:pointer; font-weight:normal; " onclick="wppaNext(1)"></a>
+	<span id="counter-1" class="wppa-nav-text wppa-black" style="text-align:center; font-weight:normal; ; cursor:pointer;" onclick="wppaStartStop(1, -1);" title="Пуск/стоп"></span>
+</div><!-- #prevnext2 -->
+<script type="text/javascript">
+	wppaStoreSlideInfo('1','0','http://www.expert-omsk.ru/wp-content/uploads/wppa/21.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Трещина стекла стеклопакета конструкции','Трещина стекла стеклопакета конструкции','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Имеется трещина стекла стеклопакета конструкции.</p>\n<p style="text-align: justify;">Конструкции светопрозрачных ограждений подвержены силовым и не силовым воздействиям. Следовательно, светопрозрачные ограждающие конструкции должны обладать необходимой прочностью и жесткостью</p></div>','21','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Имеется трещина стекла стеклопакета конструкции.&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Конструкции светопрозрачных ограждений подвержены силовым и не силовым воздействиям. Следовательно, светопрозрачные ограждающие конструкции должны обладать необходимой прочностью и жесткостью&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=21&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Имеется трещина стекла стеклопакета конструкции.&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Конструкции светопрозрачных ограждений подвержены силовым и не силовым воздействиям. Следовательно, светопрозрачные ограждающие конструкции должны обладать необходимой прочностью и жесткостью&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/21.png');
+	wppaStoreSlideInfo('1','1','http://www.expert-omsk.ru/wp-content/uploads/wppa/22.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Разрушение деревянной светопрозрачной конструкции ограждения балкона квартиры','Разрушение деревянной светопрозрачной конструкции ограждения балкона квартиры','<div style="height: 160px; overflow-y:auto;padding-right: 10px;">\n<p style="text-align: justify;">При порыве сильного ветра произошло разрушение деревянной светопрозрачной конструкции ограждения балкона квартиры. В результате чего причинен ущерб двум автомобилям, стоящим в непосредственной близости к зданию жилого дома.</p>\n\n<p style="text-align: justify;">Конструктивная схема светопрозрачного ограждения П-образная. Светопрозрачное ограждение было установлено на металлическое решетчатое ограждение балкона с примыканием к фасадной стене по двум сторонам и к козырьку балкона верхнего этажа.</p>\n\n<p style="text-align: justify;">При обследовании мест примыкания светопрозрачной конструкции ограждения балкона к фасадной стене и козырьку балкона верхнего этажа выявлено: имеются лишь шесть отверстий установки крепления на фасадной стене, по три с каждой стороны, отсутствуют места крепления к козырьку балкона верхнего этажа, что указывает на недостаточное количество крепежных элементов при установке светопрозрачной конструкции ограждения балкона.</p>\n\n<p style="text-align: justify;">Крепежные элементы вырваны из отверстий в местах креплений, глубина отверстий составляет около 30 мм от поверхности штукатурного слоя, что свидетельствует о неправильно подобранных крепежных элементах в зависимости от эксплуатационных нагрузок.</p>\n</div>','22','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;При порыве сильного ветра произошло разрушение деревянной светопрозрачной конструкции ограждения балкона квартиры. В результате чего причинен ущерб двум автомобилям, стоящим в непосредственной близости к зданию жилого дома.&lt;/p&gt;  &lt;p style=&quot;text-align: justify;&quot;&gt;Конструктивная схема светопрозрачного ограждения П-образная. Светопрозрачное ограждение было установлено на металлическое решетчатое ограждение балкона с примыканием к фасадной стене по двум сторонам и к козырьку балкона верхнего этажа.&lt;/p&gt;  &lt;p style=&quot;text-align: justify;&quot;&gt;При обследовании мест примыкания светопрозрачной конструкции ограждения балкона к фасадной стене и козырьку балкона верхнего этажа выявлено: имеются лишь шесть отверстий установки крепления на фасадной стене, по три с каждой стороны, отсутствуют места крепления к козырьку балкона верхнего этажа, что указывает на недостаточное количество крепежных элементов при установке светопрозрачной конструкции ограждения балкона.&lt;/p&gt;  &lt;p style=&quot;text-align: justify;&quot;&gt;Крепежные элементы вырваны из отверстий в местах креплений, глубина отверстий составляет около 30 мм от поверхности штукатурного слоя, что свидетельствует о неправильно подобранных крепежных элементах в зависимости от эксплуатационных нагрузок.&lt;/p&gt; &lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=22&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;При порыве сильного ветра произошло разрушение деревянной светопрозрачной конструкции ограждения балкона квартиры. В результате чего причинен ущерб двум автомобилям, стоящим в непосредственной близости к зданию жилого дома.&lt;/p&gt;\n\n&lt;p style=&quot;text-align: justify;&quot;&gt;Конструктивная схема светопрозрачного ограждения П-образная. Светопрозрачное ограждение было установлено на металлическое решетчатое ограждение балкона с примыканием к фасадной стене по двум сторонам и к козырьку балкона верхнего этажа.&lt;/p&gt;\n\n&lt;p style=&quot;text-align: justify;&quot;&gt;При обследовании мест примыкания светопрозрачной конструкции ограждения балкона к фасадной стене и козырьку балкона верхнего этажа выявлено: имеются лишь шесть отверстий установки крепления на фасадной стене, по три с каждой стороны, отсутствуют места крепления к козырьку балкона верхнего этажа, что указывает на недостаточное количество крепежных элементов при установке светопрозрачной конструкции ограждения балкона.&lt;/p&gt;\n\n&lt;p style=&quot;text-align: justify;&quot;&gt;Крепежные элементы вырваны из отверстий в местах креплений, глубина отверстий составляет около 30 мм от поверхности штукатурного слоя, что свидетельствует о неправильно подобранных крепежных элементах в зависимости от эксплуатационных нагрузок.&lt;/p&gt;\n&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/22.png');
+	wppaStoreSlideInfo('1','2','http://www.expert-omsk.ru/wp-content/uploads/wppa/23.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Неправильная установка крепежных элементов','Неправильная установка крепежных элементов','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Головки крепежных элементов (дюбелей) заглублены в камеру установки металлического вкладыша. Закрывающие декоративные заглушки не удерживаются в увеличенных отверстиях установки крепежных элементов профиля коробки оконного блока, имеющих неправильную форму. Не удалены отходы пластика при сверлении отверстий.</p></div>','23','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Головки крепежных элементов (дюбелей) заглублены в камеру установки металлического вкладыша. Закрывающие декоративные заглушки не удерживаются в увеличенных отверстиях установки крепежных элементов профиля коробки оконного блока, имеющих неправильную форму. Не удалены отходы пластика при сверлении отверстий.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=23&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Головки крепежных элементов (дюбелей) заглублены в камеру установки металлического вкладыша. Закрывающие декоративные заглушки не удерживаются в увеличенных отверстиях установки крепежных элементов профиля коробки оконного блока, имеющих неправильную форму. Не удалены отходы пластика при сверлении отверстий.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/23.png');
+	wppaStoreSlideInfo('1','3','http://www.expert-omsk.ru/wp-content/uploads/wppa/24.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Дефекты поверхности профиля балконного блока из ПВХ','Дефекты поверхности профиля балконного блока из ПВХ','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Нарушение глянца, царапины, видимые с расстояния 0,8 м при естественном освещении.</p></div>','24','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Нарушение глянца, царапины, видимые с расстояния 0,8 м при естественном освещении.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=24&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Нарушение глянца, царапины, видимые с расстояния 0,8 м при естественном освещении.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/24.png');
+	wppaStoreSlideInfo('1','4','http://www.expert-omsk.ru/wp-content/uploads/wppa/25.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Ошибка установки уплотняющей прокладки','Ошибка установки уплотняющей прокладки','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Некачественно зачищены пазы для установки уплотнения в угловой пайке рамы оконного блока. В результате этого уплотнение не выполнено и не обеспечен равномерный обжим запирающим устройством оконного блока. Имеется продувание.</p>\n<p style="text-align: justify;">Имеется видимый разрыв уплотняющей прокладки уплотнения створки</p></div>','25','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Некачественно зачищены пазы для установки уплотнения в угловой пайке рамы оконного блока. В результате этого уплотнение не выполнено и не обеспечен равномерный обжим запирающим устройством оконного блока. Имеется продувание.&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Имеется видимый разрыв уплотняющей прокладки уплотнения створки&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=25&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Некачественно зачищены пазы для установки уплотнения в угловой пайке рамы оконного блока. В результате этого уплотнение не выполнено и не обеспечен равномерный обжим запирающим устройством оконного блока. Имеется продувание.&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Имеется видимый разрыв уплотняющей прокладки уплотнения створки&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/25.png');
+	wppaStoreSlideInfo('1','5','http://www.expert-omsk.ru/wp-content/uploads/wppa/26.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Трещины стекла со стороны помещения','Трещины стекла со стороны помещения','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Имеются трещины стекла стеклопакета со стороны помещения. Характер трещин идущих из-под штапика указывает на дефект стеклопакета до установки в раму оконного блока</p>\n<p style="text-align: justify;">Перед установкой в конструкции компания занимающаяся монтажом должна провести тщательный осмотр каждого стеклопакета. Не допускается применять стеклопакеты, имеющие трещины или сколы в торцах, отслоения герметика.</p></div>','26','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Имеются трещины стекла стеклопакета со стороны помещения. Характер трещин идущих из-под штапика указывает на дефект стеклопакета до установки в раму оконного блока&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Перед установкой в конструкции компания занимающаяся монтажом должна провести тщательный осмотр каждого стеклопакета. Не допускается применять стеклопакеты, имеющие трещины или сколы в торцах, отслоения герметика.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=26&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Имеются трещины стекла стеклопакета со стороны помещения. Характер трещин идущих из-под штапика указывает на дефект стеклопакета до установки в раму оконного блока&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Перед установкой в конструкции компания занимающаяся монтажом должна провести тщательный осмотр каждого стеклопакета. Не допускается применять стеклопакеты, имеющие трещины или сколы в торцах, отслоения герметика.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/26.png');
+	wppaStoreSlideInfo('1','6','http://www.expert-omsk.ru/wp-content/uploads/wppa/27.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Герметик внутри стеклопакета','Герметик внутри стеклопакета','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Внутри камер стеклопакетов конструкций оконных блоков имеется выступление герметика между стеклом и дистанционной рамкой</p>\n<p style="text-align: justify;">Герметик не должен попадать внутрь камеры стеклопакета (в том числе в местах угловых соединений и на границе первого и второго слоев герметизации).</p></div>','27','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Внутри камер стеклопакетов конструкций оконных блоков имеется выступление герметика между стеклом и дистанционной рамкой&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Герметик не должен попадать внутрь камеры стеклопакета (в том числе в местах угловых соединений и на границе первого и второго слоев герметизации).&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=27&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Внутри камер стеклопакетов конструкций оконных блоков имеется выступление герметика между стеклом и дистанционной рамкой&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Герметик не должен попадать внутрь камеры стеклопакета (в том числе в местах угловых соединений и на границе первого и второго слоев герметизации).&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/27.png');
+	wppaStoreSlideInfo('1','7','http://www.expert-omsk.ru/wp-content/uploads/wppa/28.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Потеки герметика внутри камер стеклопакетов','Потеки герметика внутри камер стеклопакетов','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Поверхности стекол в стеклопакетах должны быть чистыми, не допускаются загрязнения, масляные пятна.</p>\n<p style="text-align: justify;">Герметик не должен попадать внутрь камеры стеклопакета (в том числе в местах угловых соединений и на границе первого и второго слоев герметизации).</p></div>','28','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Поверхности стекол в стеклопакетах должны быть чистыми, не допускаются загрязнения, масляные пятна.&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Герметик не должен попадать внутрь камеры стеклопакета (в том числе в местах угловых соединений и на границе первого и второго слоев герметизации).&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=28&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Поверхности стекол в стеклопакетах должны быть чистыми, не допускаются загрязнения, масляные пятна.&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Герметик не должен попадать внутрь камеры стеклопакета (в том числе в местах угловых соединений и на границе первого и второго слоев герметизации).&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/28.png');
+	wppaStoreSlideInfo('1','8','http://www.expert-omsk.ru/wp-content/uploads/wppa/29.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Образование конденсата на стеклопакетах','Образование конденсата на стеклопакетах','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">На стеклопакетах и на переплете оконного блока имеет место образование конденсата, температура поверхности профиля ниже температуры точки росы</p>\n<p style="text-align: justify;">Температура непрозрачных элементов окон должна быть не ниже температуры точки росы при расчетной температуре наружного воздуха в холодный период года.</p></div>','29','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;На стеклопакетах и на переплете оконного блока имеет место образование конденсата, температура поверхности профиля ниже температуры точки росы&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Температура непрозрачных элементов окон должна быть не ниже температуры точки росы при расчетной температуре наружного воздуха в холодный период года.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=29&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;На стеклопакетах и на переплете оконного блока имеет место образование конденсата, температура поверхности профиля ниже температуры точки росы&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Температура непрозрачных элементов окон должна быть не ниже температуры точки росы при расчетной температуре наружного воздуха в холодный период года.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/29.png');
+	wppaStoreSlideInfo('1','9','http://www.expert-omsk.ru/wp-content/uploads/wppa/30.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Недостаточное количество крепежных элементов оконного блока','Недостаточное количество крепежных элементов оконного блока','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Недостаточное количество крепежных элементов и увеличенное расстояние от внутреннего угла коробки оконного блока до крепежного элемента до 230 мм без учета толщины профиля рамы.</p>\n<p style="text-align: justify;">Минимальные расстояния от внутреннего угла коробки оконного блока до крепежного элемента не должны превышать 150-180 мм (с учетом толщины профиля рамы), а расстояние от импостного соединения до крепежного элемента - (120-180) мм.</p></div>','30','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Недостаточное количество крепежных элементов и увеличенное расстояние от внутреннего угла коробки оконного блока до крепежного элемента до 230 мм без учета толщины профиля рамы.&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Минимальные расстояния от внутреннего угла коробки оконного блока до крепежного элемента не должны превышать 150-180 мм (с учетом толщины профиля рамы), а расстояние от импостного соединения до крепежного элемента - (120-180) мм.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=30&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Недостаточное количество крепежных элементов и увеличенное расстояние от внутреннего угла коробки оконного блока до крепежного элемента до 230 мм без учета толщины профиля рамы.&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Минимальные расстояния от внутреннего угла коробки оконного блока до крепежного элемента не должны превышать 150-180 мм (с учетом толщины профиля рамы), а расстояние от импостного соединения до крепежного элемента - (120-180) мм.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/30.png');
+	wppaStoreSlideInfo('1','10','http://www.expert-omsk.ru/wp-content/uploads/wppa/31.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Образование конденсата на поверхности стеклопакетов оконных блоков с широким подоконником','Образование конденсата на поверхности стеклопакетов оконных блоков с широким подоконником','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Неправильное конструкторское решение установки широкой подоконной доски без канала подачи теплого воздуха от отопительного прибора системы отопления к оконному блоку. Отсутствует выраженная тепловая завеса.</p>\n<p style="text-align: justify;">Стеклопакеты, которые не омывает теплый воздух, обходящий подоконник, оказываются в зоне, температура которой ниже точки росы, в результате чего, происходит образование конденсата на внутренней поверхности стеклопакетов оконных блоков.</p></div>','31','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Неправильное конструкторское решение установки широкой подоконной доски без канала подачи теплого воздуха от отопительного прибора системы отопления к оконному блоку. Отсутствует выраженная тепловая завеса.&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Стеклопакеты, которые не омывает теплый воздух, обходящий подоконник, оказываются в зоне, температура которой ниже точки росы, в результате чего, происходит образование конденсата на внутренней поверхности стеклопакетов оконных блоков.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=31&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Неправильное конструкторское решение установки широкой подоконной доски без канала подачи теплого воздуха от отопительного прибора системы отопления к оконному блоку. Отсутствует выраженная тепловая завеса.&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Стеклопакеты, которые не омывает теплый воздух, обходящий подоконник, оказываются в зоне, температура которой ниже точки росы, в результате чего, происходит образование конденсата на внутренней поверхности стеклопакетов оконных блоков.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/31.png');
+	wppaStoreSlideInfo('1','11','http://www.expert-omsk.ru/wp-content/uploads/wppa/32.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Негерметичность стеклопакета','Негерметичность стеклопакета','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Внутри камеры стеклопакета имеет место образование конденсата, что свидетельствует о не герметичности стеклопакета.</p>\n<p style="text-align: justify;">Стеклопакеты должны быть герметичными</p></div>','32','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Внутри камеры стеклопакета имеет место образование конденсата, что свидетельствует о не герметичности стеклопакета.&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;Стеклопакеты должны быть герметичными&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=32&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Внутри камеры стеклопакета имеет место образование конденсата, что свидетельствует о не герметичности стеклопакета.&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;Стеклопакеты должны быть герметичными&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/32.png');
+	wppaStoreSlideInfo('1','12','http://www.expert-omsk.ru/wp-content/uploads/wppa/33.png?ver=1',' max-width:512px; max-height:384px; width:512px; height:384px;margin:0 0 0 64px;','512','384','Неправильно огранизованная приточная вентиляция','Неправильно огранизованная приточная вентиляция','<div style="height: 160px; overflow-y:auto;padding-right: 10px;"><p style="text-align: justify;">Устройство приточной вентиляции в жилой комнате расположено в нижней части наружной стены сбоку от отопительного прибора</p>\n<p style="text-align: justify;">В помещениях жилых, общественных и административно-бытовых зданий приточный воздух следует подавать, как правило, из воздухораспределителей, расположенных в верхней зоне. \nПриточные устройства следует размещать в жилых комнатах и кухнях-столовых в верхней части окна или наружной стены или над отопительным прибором, установленным под окном. При размещении приточного устройства над отопительным прибором следует обеспечить его незамерзание.</p></div>','33','0','0','0','','','Zoom in','','0','','','','&lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Устройство приточной вентиляции в жилой комнате расположено в нижней части наружной стены сбоку от отопительного прибора&lt;/p&gt; &lt;p style=&quot;text-align: justify;&quot;&gt;В помещениях жилых, общественных и административно-бытовых зданий приточный воздух следует подавать, как правило, из воздухораспределителей, расположенных в верхней зоне.  Приточные устройства следует размещать в жилых комнатах и кухнях-столовых в верхней части окна или наружной стены или над отопительным прибором, установленным под окном. При размещении приточного устройства над отопительным прибором следует обеспечить его незамерзание.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=3&wppa-photo=33&wppa-cover=0&wppa-occur=1','','See this image on Независимая потребительская экспертиза и оценка: &lt;div style=&quot;height: 160px; overflow-y:auto;padding-right: 10px;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Устройство приточной вентиляции в жилой комнате расположено в нижней части наружной стены сбоку от отопительного прибора&lt;/p&gt;\n&lt;p style=&quot;text-align: justify;&quot;&gt;В помещениях жилых, общественных и административно-бытовых зданий приточный воздух следует подавать, как правило, из воздухораспределителей, расположенных в верхней зоне. \nПриточные устройства следует размещать в жилых комнатах и кухнях-столовых в верхней части окна или наружной стены или над отопительным прибором, установленным под окном. При размещении приточного устройства над отопительным прибором следует обеспечить его незамерзание.&lt;/p&gt;&lt;/div&gt;','http://www.expert-omsk.ru/wp-content/uploads/wppa/33.png');
+	</script>
+	<script type="text/javascript">
+		wppaFullValign[1] = "fit";
+		wppaFullHalign[1] = "center";
+		jQuery(document).ready(function() { wppaStartStop(1, 9); });
+		</script><div style="clear:both;"></div>
+	</div><!-- wppa-container-1 -->
+	<!-- End WPPA+ generated code -->
+    
+                    <div class="clear"></div>
+                </div>   
+				<p class="postmetadata">	               
+                                    	
+                	
+				</p>                   
+			</div>	    
+			
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are closed. -->
+		<p class="nocomments"></p>
+
+	
+		      	
+			
+    				
+	</div> <!-- END Narrowcolumn -->
+    <div id="sidebar" class="profile">       
+      <ul>
+<li id="widget_text" class="widget png_scale">			<div class="textwidget"><big><address>
+<h4>Поздняков Сергей Александрович</h4><br/>
+Тел: <a href="tel:+73812485851">+7 (3812) 48-58-51</a><br/>
+Тел: <a href="tel:+79069934682">+7 (906) 993-46-82</a><br/>
+E-mail: <a href="mailto:omsk-expert@yandex.ru">
+omsk-expert@yandex.ru</a><br/>
+Россия, 644007 г. Омск,<br/>
+ул. Орджоникидзе, д. 48, офис 316.<br/>
+ОГРНИП 308554310900260<br/>
+ИНН 552801138306
+</address>
+<h3 style="margin-top: 10px; margin-bottom: 5px;">Мы в социальных сетях:</h3>
+<a href="http://vk.com/expertomsk" title="Официальная группа НПЭО в «ВКонтакте»">
+<img alt="" src="/wp-content/uploads/wppa/85.png"></a><a href="http://ok.ru/profile/583053266975" title="Официальная группа НПЭО в «Одноклассниках»">
+<img alt="" src="/wp-content/uploads/wppa/88.png"></a><a href="https://twitter.com/ExpertOmsk" title="Официальный твиттер НПЭО">
+<img alt="" src="/wp-content/uploads/wppa/86.png"></a></big></div>
+		</li><li id="widget_text" class="widget png_scale">			<div class="textwidget"><a href="/uslugi/ocenka-ushherba-ot-zatopleniya/" title="Экспертиза причин и оценка ущерба после затопления"><img src="http://www.expert-omsk.ru/wp-content/uploads/2014/09/Banner-Протекает-крыша2.png"  style="
+margin-left: 36px;
+border: 1px solid gray;
+box-shadow: 1px 1px 1px rgba(0,0,0,0.6);"/></a></div>
+		</li>		<li id="widget_recent_entries" class="widget png_scale">		<h2 class="blocktitle"><span>Свежие записи</span></h2>		<ul>
+					<li>
+				<a href="http://www.expert-omsk.ru/2020/02/08/naibolee-chasto-vstrechayushhiesya-prichiny-razrusheniya-steklokeramiki/">Наиболее часто встречающиеся причины разрушения стеклокерамики.</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/12/19/o-pravax-potrebitelej-pri-pokupke-mebeli/">О правах потребителей при покупке мебели.</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/12/15/uchityvaetsya-li-iznos-pri-ocenke-ushherba-ot-zaliva/">Учитывается ли износ при оценке ущерба от залива?</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/12/14/menya-zalili-kogda-mne-priglashat-ocenshhika/">Меня залили – когда мне приглашать оценщика?</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/12/14/uk-ne-sostavlyaet-akt-o-zatoplenii-kvartiry/">УК не составляет акт о затоплении квартиры.</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/02/03/nash-opyt/">Наш опыт</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/01/22/ekspertiza-na-prigodnost-kvartiry-ili-zhilogo-doma-dlya-prozhivaniya/">Экспертиза на пригодность квартиры или жилого дома для проживания</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/01/13/ocenka-stoimosti-vosstanovitelnyx-rabot-posle-zatopleniya-2/">Возмещение материального ущерба, причиненного имуществу затоплением квартиры</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/01/12/organizaciya-dvernogo-proema-v-nesushhej-stene/">Организация дверного проема в несущей стене.</a>
+						</li>
+					<li>
+				<a href="http://www.expert-omsk.ru/2019/01/12/situaciya-protekaet-krovlya/">Ситуация: протекает кровля.</a>
+						</li>
+				</ul>
+		</li>
+<li id="wppa_album_navigator_widget" class="widget png_scale"><h2 class="blocktitle"><span>Часто встречаемые дефекты</span></h2>
+<!-- WPPA+ Album Navigator Widget start --><div style="width:100%; overflow:hidden; position:relative; left: -12px;" ><ul>
+						<li class="anw-3--1" style="list-style:none; display:;">
+							<div style="width:12px;float:left;" >&nbsp;&raquo;</div>
+							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=3&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза окон</a>
+						</li>
+						<li class="anw-3--1" style="list-style:none; display:;">
+							<div style="width:12px;float:left;" >&nbsp;</div>
+							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=4&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза мебели</a>
+						</li>
+						<li class="anw-3--1" style="list-style:none; display:;">
+							<div style="width:12px;float:left;" >&nbsp;</div>
+							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=5&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза кровли</a>
+						</li>
+						<li class="anw-3--1" style="list-style:none; display:;">
+							<div style="width:12px;float:left;" >&nbsp;</div>
+							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=6&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза дверных блоков</a>
+						</li></ul><script type="text/javascript" >
+								jQuery('.anw-3-3').css('display',''); jQuery('.anw-3-3-').css('display','none');</script></div><div style="clear:both"></div>
+<!-- WPPA+ Album Navigator Widget end --></li> 
+</ul>  
+    </div>    
+<div class="clear"></div>
+
+<!---------------- Start PARTNERS (footer.php) ---------------->
+
+<style type="text/css">
+#examples-logo-pond {
+<!--
+    position: absolute;
+-->
+    z-index: 100;
+    top: 1862px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    border-top: 1px solid #fff;
+<!--
+    -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 2px 3px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.25) 0 2px 3px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 2px 3px
+-->
+    -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0 0px 0px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.25) 0 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 0px 0px
+}
+
+#examples-logo-pond h5 {
+    position: relative;
+    height: 25px;
+    max-width: 900px;
+    margin: 15px auto;
+    color: #1f1f1f;
+    font-size: 1em;
+    line-height: 20px;
+    text-align: center
+    font-weight: normal;
+}
+
+#examples-logo-pond h5 span[class*="span"] {
+    min-height: 20px;
+    margin-left: 0.64115%
+}
+
+#examples-logo-pond h5 span[class*="span"]:first-child {
+    margin-left: 0
+}
+
+#examples-logo-pond h5 span[class*="span"].span4 {
+    width: 37%
+}
+
+#examples-logo-pond h5 span.bar-left,
+#examples-logo-pond h5 span.bar-right {
+    height: 11px;
+    min-height: 11px;
+    border-bottom: 1px solid #d4cfc9
+}
+
+#examples-logo-pond .logo-pond {
+    position: relative;
+    max-width: 940px;
+    margin: 0 auto
+}
+
+#examples-logo-pond .logo-pond span {
+    position: relative;
+    height: 70px;
+    width: 20%;
+    display: block;
+    float: left;
+    overflow: hidden;
+    background: url(http://www.expert-omsk.ru/wp-content/uploads/wppa/112.png);
+    text-indent: -100%
+}
+
+#examples-logo-pond .logo-pond span.mkcomsk {
+    background-position: 0 0
+}
+
+.row-fluid:before,
+.row-fluid:after {
+    display: table;
+    content: "";
+    line-height: 0
+}
+
+.row-fluid:after {
+    clear: both
+}
+
+.row-fluid [class*="span"] {
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 2.12766%;
+    *margin-left: 2.07447%
+}
+
+.row-fluid [class*="span"]:first-child {
+    margin-left: 0
+}
+
+.row-fluid .controls-row [class*="span"]+[class*="span"] {
+    margin-left: 2.12766%
+}
+
+.row-fluid .span12 {
+    width: 100%;
+    *width: 99.94681%
+}
+</style>
+
+<div id="examples-logo-pond">
+    <h5 class="row-fluid">
+            <span class="span4 bar-left"></span>
+            <span class="span4" style="width:24%;">The impressive people we work with</span>
+            <span class="span4 bar-right"></span>
+        </h5>
+    <div class="logo-pond">
+        <a href="http://mkcomsk.ru/" title="Многофункциональный Кадастровый Центр" target="_blank"><span class="mkcomsk">МКЦ</span></a>
+    </div>
+</div>
+
+<!---------------- End PARTNERS (footer.php) ---------------->
+
+
+<div id="footer" style="margin-top:100px">
+<div class="lt">Copyright &copy; 2010 All rights reserved.</div>
+<div class="rt">Designed by <a href="http://www.nattywp.com" title="NattyWP"><img src="http://www.expert-omsk.ru/wp-content/themes/delicate/images/natty-logo.png" width="82" height="17" valign="3px" class="png" alt="NattyWP" align="middle" /></a></div>		
+<div class="clear"></div>			
+</div>
+    </div> <!-- END Columns --> 
+    
+   
+</div><!-- END main -->
+</div>  
+<div class="clear"></div>
+
+<!------------------------ Счетчики (theme options) ------------------------>
+
+<style type="text/css">.sub-menu .menu-item span{text-transform: uppercase;}</style>
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=13837762&from=informer" target="_blank" rel="nofollow" style="display: none;"><img src="//bs.yandex.ru/informer/13837762/2_1_FFFFFFFF_FFFFFFFF_0_pageviews" style="width:80px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter13837762 = new Ya.Metrika({id:13837762, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div  style="display: none;"><img src="//mc.yandex.ru/watch/13837762" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?3008136" style="display: none;"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/3008136/" style="display: none;">
+<img src="http://counter.rambler.ru/top100.cnt?3008136" alt="Rambler's Top100" border="0" />
+</a>
+</noscript>
+<!-- end of Top100 code -->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">//<![CDATA[
+var _tmr = _tmr || [];
+_tmr.push({id: "2492988", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+//]]></script><noscript><div style="position:absolute;left:-10000px; display: none;">
+<img src="//top-fwz1.mail.ru/counter?id=2492988;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=2492988" style="display: none;">
+<img src="//top-fwz1.mail.ru/counter?id=2492988;t=409;l=1" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+
+
+<a href="http://expert-omsk.omsk24.net" title="Справочник организаций Омска" style="display: none;"><img src="http://omsk24.net/files/button.gif" border="0"></a>
+<a href="http://www.omsk24.net/top/?do=v&i=499" title="Рейтинг сайтов Омска" style="display: none;"><img src="http://www.omsk24.net/top/?do=in&id=499" border="0"></a>
+
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click'  style='display: none;'"+
+"target=_blank><img src='//counter.yadro.ru/hit?t57.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='88' height='31'></a>")
+//--></script>
+<!--/LiveInternet-->
+
+<!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-49670623-1', 'expert-omsk.ru');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+
+<meta name='wmail-verification' content='aec7604356e4cbca' />
+
+<script type="text/javascript">
+    var reformalOptions = {
+        project_id: 848214,
+        project_host: "expert-omsk.reformal.ru",
+        tab_orientation: "left",
+        tab_indent: "50%",
+        tab_bg_color: "#F05A00",
+        tab_border_color: "#FFFFFF",
+        tab_image_url: "http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/2a94cfe6511106e7a48d0af3904e3090/left/1/tab.png",
+        tab_border_width: 2
+    };
+    
+    (function() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript'; script.async = true;
+        script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.reformal.ru/widgets/v3/reformal.js';
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+</script><noscript><a href="http://reformal.ru"><img src="http://media.reformal.ru/reformal.png" /></a><a href="http://expert-omsk.reformal.ru">Oтзывы и предложения для Независимая потребительская экспертиза, оценка.</a></noscript>
+
+<!------------------------ Счетчики (theme options) ------------------------>
+<!-- start WPPA+ Footer data -->
+	<div id="wppa-overlay-bg" style="text-align:center; display:none; position:fixed; top:0; left:0; z-index:100090; width:100%; height:2048px; background-color:black;" onclick="wppaOvlOnclick(event)" ></div>
+	<div id="wppa-overlay-ic" style="position:fixed; top:0; padding-top:10px; z-index:100095; opacity:1; box-shadow:none;"
+		ontouchstart="wppaTouchStart(event, 'wppa-overlay-ic', -1);"  ontouchend="wppaTouchEnd(event);" 
+		ontouchmove="wppaTouchMove(event);" ontouchcancel="wppaTouchCancel(event);" >
+	</div>
+	<img id="wppa-overlay-sp" style="position:fixed; top:200px; left:200px; z-index:100100; opacity:1; visibility:hidden; box-shadow:none;" src="http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/images/loading.gif" />
+	<script type="text/javascript">jQuery("#wppa-overlay-bg").css({height:screen.height+"px"});
+		wppaOvlTxtHeight = "auto";
+		wppaOvlCloseTxt = "Закрыть";
+		wppaOvlOpacity = 0.8;
+		wppaOvlOnclickType = "close";
+		wppaOvlTheme = "white";
+		wppaOvlAnimSpeed = 300;
+		wppaOvlSlideSpeed = 5000;
+		wppaVer4WindowWidth = 800;
+		wppaVer4WindowHeight = 600;
+		wppaOvlShowCounter = true;
+		
+		wppaOvlFontSize = "10"
+		
+		wppaOvlFontWeight = "bold"
+		wppaOvlLineHeight = "12"
+	</script>
+	<input type="hidden" id="wppa-nonce" name="wppa-nonce" value="554524a3ff" />
+<!-- end WPPA+ Footer data -->
+
+<!-- Do user upload -->
+<!-- Done user upload -->  
+<script type="text/javascript" charset="utf-8">
+	
+jQuery(document).ready(function() {
+ $j('.slideshow').cycle({
+  fx: 'fade',
+  timeout: 10000,
+  pager: '#slideshow-nav',
+  speed: 1000,
+  //prev: '#left-arrow',
+  //next: '#right-arrow',
+  pagerEvent: 'click',
+  pauseOnPagerHover: true,
+  cleartypeNoBg: true });						
+ });		
+</script>
+     
+<!------------------------ Мои JavaScript ------------------------>
+<script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/fancybox/lib/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
+<script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+<script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/jqueryui/jquery-ui.js"></script>
+<script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/MyJobImgScript7.js"></script>
+<!--<script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/js/Sizzle/sizzle1.js"></script>-->
+<!------------------------ Мои JavaScript ------------------------>
+</body>
+</html> 

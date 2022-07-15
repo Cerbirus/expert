@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>НПЭО - Независимая потребительская экспертиза, оценка</title>
+<title>Перепланировка | Независимая потребительская экспертиза и оценка</title>
 
 <!-- Style sheets -->
 <link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/style.css" media="screen" />
@@ -32,6 +32,7 @@
 </style>
 <link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента" href="http://www.expert-omsk.ru/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента комментариев" href="http://www.expert-omsk.ru/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента комментариев к &laquo;Перепланировка&raquo;" href="http://www.expert-omsk.ru/pereplanirovka/feed/" />
 <link rel='stylesheet' id='wppa_style-css'  href='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/theme/wppa-style.css?ver=5-2-20-000' type='text/css' media='all' />
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
@@ -39,24 +40,21 @@
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/wppa.init.ru.js?ver=143'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.expert-omsk.ru/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.expert-omsk.ru/wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Экспертиза мебели' href='http://www.expert-omsk.ru/uslugi/ekspertiza-mebeli/' />
-<link rel='next' title='Часто встречаемые дефекты оконных и дверных блоков' href='http://www.expert-omsk.ru/fotogalereya-ekspertiza-okon/' />
+<link rel='prev' title='Причины затопления' href='http://www.expert-omsk.ru/foto-galereya/prichiny-zatopleniya/' />
+<link rel='next' title='Перепланировка и переустройство жилого помещения' href='http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/pereplanirovka-i-pereustrojstvo-zhilogo-pomeshheniya/' />
 <meta name="generator" content="WordPress 3.8.1" />
-<link rel='shortlink' href='http://www.expert-omsk.ru/?p=679' />
+<link rel='shortlink' href='http://www.expert-omsk.ru/?p=1542' />
 <meta name="template" content="delicate 3.5" />
 <meta name="generator" content="NattyWP Framework Version 2.0" />
 <meta name="description" content="Экспертиза и оценка любого имущества " />
 <link rel="icon" href="http://www.expert-omsk.ru/wp-content/themes/delicate/images/icons/meta-tags.gif" /><link rel="shortcut icon" href="http://www.expert-omsk.ru/wp-content/themes/delicate/images/icons/meta-tags.gif" />
 <link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/functions/css/shortcodes.css" media="screen" /><script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/functions/js/shortcode.js"></script>
-<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[119,221] -->
+<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[119,251] -->
 <link rel="author" href="https://plus.google.com/u/0/b/117263384751577198670/117263384751577198670/about" />
-<meta name="description" content="Экспертиза ремонтных работ, монтажа и эксплуатации оконных и дверных блоков. Оценка недвижимости, квартир, автомобилей. Оценка ущерба от затопления. Перео" />
+<meta name="description" content="Объединение квартиры с нежилым помещением. Объект экспертизы: имеются ли нарушения норм и правил при возведении стены-перегородки, объ" />
 
-<meta name="keywords" content="Оказываем весь спектр услуг по оценке стоимости, Все виды оценки, Оценка предприятия (бизнеса), Оценка недвижимости, Оценка зданий, Оценка сооружений, помещений, земельных участков, квартир, коттеджей и другой загородной недвижимости, Оценка ценных бумаг акций векселей, Оценка интеллектуальной собственности, Оборудования, Автомобилей и спецтехники. Переоценка. Оценка ущерба от залива квартиры или затопления помещения, Оценка ущерба от пожара, Оценка устранения строительных дефектов, Окна ПВХ, Пластиковые окна, Оценка дефектов оконных и дверных блоков, Выполняем экспертизу, Экспертиза общестроительных работ, Экспертиза отделочных работ, Экспертиза ремонтных работ и услуг в части производства, монтажа и эксплуатации оконных и дверных блоков, Экспертиза технического состояния, Экспертиза транспортных средств, Оценка автомобиля, Автотехническая экспертиза, исследование технического состояния транспортных средств их частей узлов агрегатов, Экспертиза общестроительных работ и строительных материалов, Экспертиза сложной бытовой техники, Экспертиза мебели" />
-
-<style type="text/css">
-</style><meta name="google-site-verification" content="2iGA0d68hMvK3ttO5madS1MnBXSQNDarPsQ_zIjeBJk" />
-<link rel="canonical" href="http://www.expert-omsk.ru/" />
+<style type="text/css">.sub-menu .menu-item span{text-transform: uppercase;}</style>
+<link rel="canonical" href="http://www.expert-omsk.ru/pereplanirovka/" />
 			<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -160,7 +158,7 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 </style>
 </head>
 
-<body class="home page page-id-679 page-template-default custom-background">
+<body class="page page-id-1542 page-template-default custom-background">
 <div class="content-pad">
 <div id="header">
 	<div id="logo"><a href="http://www.expert-omsk.ru"><img src="http://www.expert-omsk.ru/wp-content/uploads/2014/09/title7.png" border="0" class="png" alt="Независимая потребительская экспертиза и оценка" /></a></div>        
@@ -174,7 +172,7 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 
 <div class="top">
     <div id="menu">	
-       <ul id="nav-ie" class="topnav fl fr sf-js-enabled sf-shadow"><li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-679 current_page_item menu-item-has-children menu-item-1392"><a href="http://www.expert-omsk.ru/"><span>Услуги</span></a>
+       <ul id="nav-ie" class="topnav fl fr sf-js-enabled sf-shadow"><li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1392"><a href="http://www.expert-omsk.ru/"><span>Услуги</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-736"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/"><span>Экспертиза и оценка после затопления</span></a></li>
 	<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-738"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-pozhara/"><span>Оценка ущерба от пожара</span></a>
@@ -203,14 +201,14 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 </ul>
 </li>
 <li id="menu-item-743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743"><a href="http://www.expert-omsk.ru/stoimost-uslug/"><span>Стоимость услуг</span></a></li>
-<li id="menu-item-1169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1169"><a href="http://www.expert-omsk.ru/category/nashi-raboty/"><span>Наши работы</span></a>
+<li id="menu-item-1169" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1169"><a href="http://www.expert-omsk.ru/category/nashi-raboty/"><span>Наши работы</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-1721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1721"><a href="http://www.expert-omsk.ru/2019/02/03/nash-opyt/"><span>Наш опыт</span></a></li>
 	<li id="menu-item-1396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1396"><a href="/2014/04/11/defekty-proizvodstva-i-montazha-kuxonnoj-garnitury/"><span>Дефекты производства и монтажа кухонного гарнитура</span></a></li>
 	<li id="menu-item-1395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1395"><a href="/2014/04/03/zaklinivanie-dvigatelya-v-sledstvii-gidroudara/"><span>Заклинивание двигателя в следствии гидроудара</span></a></li>
 	<li id="menu-item-1394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1394"><a href="/2014/04/03/varochnaya-panel-iz-stekla-vzorvalas/"><span>Варочная панель из стекла «взорвалась»</span></a></li>
 	<li id="menu-item-1393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1393"><a href="/2014/04/02/sistema-ventilyacii-v-kvartire/"><span>Система вентиляции в квартире</span></a></li>
-	<li id="menu-item-1564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1564"><a href="http://www.expert-omsk.ru/pereplanirovka/"><span>Перепланировка</span></a></li>
+	<li id="menu-item-1564" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1542 current_page_item menu-item-1564"><a href="http://www.expert-omsk.ru/pereplanirovka/"><span>Перепланировка</span></a></li>
 	<li id="menu-item-1637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1637"><a href="http://www.expert-omsk.ru/2019/01/12/organizaciya-dvernogo-proema-v-nesushhej-stene/"><span>Организация дверного проема в несущей стене.</span></a></li>
 	<li id="menu-item-1671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1671"><a href="http://www.expert-omsk.ru/2019/01/13/ocenka-stoimosti-vosstanovitelnyx-rabot-posle-zatopleniya-2/"><span>Возмещение материального ущерба, причиненного имуществу затоплением квартиры</span></a></li>
 	<li id="menu-item-1784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1784"><a href="http://www.expert-omsk.ru/zhilye-doma-blokirovannoj-zastrojki/"><span>Жилые дома блокированной застройки</span></a></li>
@@ -247,7 +245,7 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 <div class="head-img">
 
         <div class="tagline">Экспертиза и оценка любого имущества</div>
-      <img src="http://www.expert-omsk.ru/wp-content/uploads/2014/04/header-3.png" width="970" height="225" alt="Header" />
+      <img src="http://www.expert-omsk.ru/wp-content/uploads/2014/09/header5.png" width="970" height="225" alt="Header" />
     </div>
 <!-- END Header --> 
 <div id="main">		
@@ -256,57 +254,133 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
           							
 			<div class="post">
             	
-                <div class="title"><h2></h2></div>                
+                <div class="title"><h2>Перепланировка</h2></div>                
 				<div class="entry">
-                                          <style type="text/css">
-<!-- .post .entry {
-    margin-top: -26px !important;
-}</p>
-<p>-->
-</style>
-<table style="table-layout: fixed;" width="100%" border="0">
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-    </colgroup>
-<tbody>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img class="aligncenter size-thumbnail wp-image-1072" alt="Экспертиза общестроительных, Отделочных и ремонтных работ и услуг в части производства, монтажа и эксплуатации оконных и дверных блоков" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/strotelnaya-expertisa-150x150.png" width="150" height="150" /><strong><a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Строительно-техническая экспертиза<br />
-</a></strong><a title="Перепланировка и переустройство жилого помещения" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/pereplanirovka-i-pereustrojstvo-zhilogo-pomeshheniya/" target="_blank"> Перепланировка жилого помещения</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Техническое обследование зданий</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Экспертиза качества строительных работ</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Экспертиза качества отделочных работ</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Оценка стоимости устранения дефектов</a><br />
-                <a title="ЭКСПЕРТИЗА ПРИЧИН И ОЦЕНКА УЩЕРБА ПОСЛЕ ЗАЛИВА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/">Экспертиза причин затопления</a></td>
-<td style="text-align: center; vertical-align: top;"><img alt="Экспертиза пластиковых окон и дверей" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/expertisa-okon-150x150.png" width="150" height="150" /></p>
-<p></strong><a title="Экспертиза конструкций оконных блоков" href="http://www.expert-omsk.ru/uslugi/ekspertiza-konstruktsiy-okonnykh-blokov/" target="_blank">Экспертиза конструкций оконных блоков</a><br />
-                <a title="Экспертиза дверных блоков" href="/uslugi/ekspertiza-dvernyx-blokov/">Экспертиза дверных блоков</a></td>
-</tr>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img alt="Экспертиза бытовой техники. Экспертиза мебели" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/expertisa-tovarov-150x150.png" width="150" height="150" /></p>
-<p> </strong><a title="Экспертиза мебели" href="http://www.expert-omsk.ru/uslugi/ekspertiza-mebeli/">Экспертиза мебели</a><br />
-<a title="Экспертиза бытовой техники" href="uslugi/ekspertiza-bytovoj-texniki/">Экспертиза бытовой техники</a></td>
-<td style="text-align: center; vertical-align: top;"><strong><img class="aligncenter size-thumbnail wp-image-1105" alt="Оценка ущерба" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/ущерб-150x150.png" width="150" height="150" /><a title="ОЦЕНКА УЩЕРБА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba/">Оценка ущерба</a></strong><br />
-                <a title="ЭКСПЕРТИЗА ПРИЧИН И ОЦЕНКА УЩЕРБА ПОСЛЕ ЗАЛИВА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/">Оценка ущерба после затопления</a><br />
-                <a title="ОЦЕНКА УЩЕРБА ОТ ПОЖАРА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-pozhara/">Оценка ущерба после пожара</a></td>
-</tr>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img alt="исследование технического состояния транспортных средств, их частей, узлов, агрегатов" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/autoexpertisa-150x150.png" width="150" height="150" /><br />
-                <strong><a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Автоэкспертиза</a><br />
-</strong><a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Установление технического состояния авто</a><br />
-                <a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Экспертиза узлов и агрегатов</a></td>
-<td style="vertical-align: top; text-align: center;"><img alt="Оценка всех видов имущества" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/ocenka-150x150.png" width="150" height="150" /><br />
-                <strong>Оценка всех видов имущества<br />
-</strong>Оценка недвижимости<br />
-                <a title="Оценка спецтехники" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка автомобилей</a><br />
-                <a title="Оценка спецтехники" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка спецтехники</a><br />
-                <a title="ОЦЕНКА ОБОРУДОВАНИЯ" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка оборудования</a></td>
-</tr>
-</tbody>
-</table>
-<p><!-- begin of Dorus.ru code --><br />
-<a target="_blank" href="http://omsk.dorus.ru/"><img src="http://www.dorus.ru/images/dorus.gif" width="88" height="31" title="Бесплатные объявления газета мытищи" border="0" /></a><br />
-<!-- end of Dorus.ru code --></p>
+                                          <p><div id="MyJobAccordion">
+<h3>Объединение квартиры с нежилым помещением.</h3>
+<div>
+        <strong>Объект экспертизы:</strong> имеются ли нарушения норм и правил при возведении стены-перегородки, объединяющей квартиру № ХХ и рядом расположенное нежилое помещение.</br><br />
+        <strong>Ситуация:</strong> Истцы произвели перепланировку, оборудовав в стене, выходящей в общий коридор, входную дверь и, захватив уголок общего коридора, возвели стену образовавшую проход в выкупленное помещение. Кроме того, истцы произвели внутреннюю перепланировку помещений. Строительная экспертиза подтвердила отсутствие угрозы для проживающих, соответствие перепланировки действующим стандартам. Как следует из заключения ИП П.С.А. «Независимая потребительская экспертиза» № от ДД.ММ.ГГГГ года, что стена-перегородка в коридоре, возведенная при перепланировке, находится не над фундаментом здания, опирается на перекрытия и никакой нагрузки, кроме собственного веса, не несет и выполнена в соответствии с проектом &lt;данные изъяты&gt; перепланировки и переустройства квартиры. Данная стена-перегородка препятствий при эвакуации не создает. С учетом изложенных обстоятельств, учитывая, что проведенное переустройство жилого помещения не затронуло его конструктивных особенностей, не нарушает прав и законных интересов граждан, не создает угрозу их жизни или здоровью, суд считает возможным требование удовлетворить, сохранить жилое помещение по адресу: &lt;адрес&gt; в переустроенном состоянии. На основании изложенного, и руководствуясь ст. ст. 194-198, 233-235 ГПК РФ, суд </br><br />
+        <strong>РЕШИЛ:</strong> Сохранить жилое помещение &#8212; &lt;адрес&gt;, расположенное в &lt;адрес&gt; в переустроенном (перепланированном) виде.</p>
+<div class="MyJobImg">
+<div class="MyJobImgRow">
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/89.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/89.jpg" />
+                </div>
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/90.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/90.jpg" /></div>
+</p></div>
+<div class="MyJobImgRow">
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/91.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/91.jpg" />
+                </div>
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/92.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/92.jpg" /></div>
+</p></div>
+</p></div>
+</p></div>
+<h3>Переустройство жилого помещения с присоединением части коридора общего пользования.</h3>
+<div>
+        <strong>Объект экспертизы:</strong> перепланировка и переустройство жилого помещения – квартиры с присоединением части коридора общего пользования.</p>
+<div class="MyJobImg">
+<div class="MyJobImgRow">
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/93.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/93.jpg" />
+                </div>
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/94.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/94.jpg" /></div>
+</p></div>
+</p></div>
+<p>        <span style="line-height: 1.5em;"><strong>Ситуация:</strong> произошло увеличение общей площади квартиры на *** кв.м за счет присоединения к данному помещению коридора общего пользования. Данный коридор примыкает к квартире таким образом, что его использование другими жильцами практически невозможно, а для семьи истца данный коридор служит подсобным помещением &#8212; местом для удобного размещения обуви и верхней одежды. </span> При проведении проверки заместителем главного государственного инспектора Отдела государственного пожарного надзора … на соответствие требованиям пожарной безопасности квартиры, расположенной по адресу: &lt;адрес&gt; нарушений норм и правил пожарной безопасности не выявлено. Экспертным заключением Отдела гигиены и эпидемиологии … установлено, что проект перепланировки и переустройства жилого помещения по адресу: &lt;адрес&gt; соответствует СанПиН 2.1.2.2645-10 «Санитарно-Эпидемиологические требования к условиям проживания в жилых зданиях и помещениях», СанПиН 2.1.2.2801-10 «Изменения и дополнения №1 к СанПиН 2.1.2.2645-10 «Санитарно-Эпидемиологические требования к условиям проживания в жилых зданиях и помещениях». «Независимой потребительской экспертизой» №, проведенной ИП установлено, что в квартире возведена перегородка с дверным проемом в коридоре общего пользования, отделяющая часть площади коридора, с присоединением ее к &lt;адрес&gt; по адресу: &lt;адрес&gt;. Стена-перегородка в коридоре, возведенная при перепланировке &lt;адрес&gt;, находится не над фундаментом здания, опирается на перекрытия и никакой нагрузки, кроме собственного веса, не несет, выполнена в соответствии с Проектом перепланировки и переустройства жилого помещения &#8212; &lt;адрес&gt; по адресу: &lt;адрес&gt;, № 1405-П. Данная стена-перегородка препятствий при эвакуации не создает. Препятствий для прохода по коридору общего пользования из квартир № на лестничный марш не имеется. Суд считает установленным соответствие имеющейся в квартире по адресу: &lt;адрес&gt; перепланировки санитарным и техническим нормам и правилам, которая не нарушает права и законные интересы граждан, это не создает угрозу для жизни и здоровья. Поскольку указанное помещение соответствует требованиям, предъявляемым к жилым помещениям, на присоединение к помещению части общего имущества многоквартирного дома получено согласие всех собственников помещений многоквартирного дома, оформлен проект, суд считает возможным сохранить жилое помещение по адресу: &lt;адрес&gt; перепланированном состоянии. Руководствуясь ст.ст. 194-198,235 ГПК РФ, суд </br><br />
+        <strong>РЕШИЛ:</strong> Исковые требования удовлетворить. Сохранить жилое помещение, расположенное по адресу: &lt;адрес&gt;, общей площадью *** кв.м. в перепланированном состоянии.
+    </div>
+<h3>Перепланировка жилого помещения &#8212; 1.</h3>
+<div>
+        <strong>Объект экспертизы:</strong> перепланировка в квартире.</p>
+<div class="MyJobImg">
+<div class="MyJobImgRow">
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/103.png" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/103.png" />
+                </div>
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/106.png" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/106.png" /></div>
+</p></div>
+</p></div>
+<p>        <strong>Ситуация:</strong> после приобретения квартиры истец произвел внутреннюю перепланировку квартиры: комната № площадью 32.8 кв.м. разделена на две комнаты за счет установки перегородки, устройства дверного проема, жилая площадь увеличена за счет площади коридора; произведена перепланировка санузла с уменьшением его площади за счет монтажа встроенного шкафа. Экспертным заключением Независимой потребительской экспертизы от ДД.ММ.ГГГГ № установлена перепланировка комнаты № в &lt;адрес&gt; с разделением на комнаты № и № за счет монтажа стены перегородки из листов ГКЛ по металлическому каркасу, являющейся легкой конструкцией, с увеличением жилой площади за счет площади коридора; нарушений целостности конструкции здания после монтажа стены перегородки между помещениями комнат № и № не имеется; указанная перепланировка соответствует санитарным нормам и правилам. При таком положении дела, поскольку перепланировка указанной квартиры произведена без нарушений требований жилищного законодательства, с соблюдением прав и законных интересов граждан, при отсутствии угрозы их жизни или здоровью, то суд считает необходимым удовлетворить требования истца и сохранить жилое помещение в перепланированном состоянии. Руководствуясь ст. ст. 194-199 ГПК РФ, суд </br><br />
+        <strong>РЕШИЛ:</strong> Исковые требования удовлетворить. Сохранить &lt;адрес&gt; в перепланированном состоянии.
+    </div>
+<h3>Перепланировка жилого помещения &#8212; 2</h3>
+<div>
+        <strong>Объект экспертизы</strong>: пристройка и переустройство квартиры жилого дома</p>
+<div class="MyJobImg">
+<div class="MyJobImgRow">
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/95.png" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/95.png" />
+                </div>
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/96.png" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/96.png" /></div>
+</p></div>
+</p></div>
+<p>        <span style="line-height: 1.5em;"><strong>Ситуация:</strong> в период проживания в указанном жилом помещении истцом проведена самовольная перепланировка квартиры №, снесены были кухня и веранда, на их месте возведены кухня, веранда, прихожая, туалет и коридор, с увеличением соответственно жилой площади застройки на *** кв.м. Работы выполнялись самостоятельно, за счет собственных средств, без получения соответствующего решения о согласовании перепланировки квартиры.</span> Согласно п. 3 ст. 222 ГК РФ право собственности на самовольную постройку может быть признано судом, а в предусмотренных законом случаях в ином установленном законом порядке, за лицом, в собственности, пожизненном наследуемом владении, постоянном (бессрочном) пользовании которого находится земельный участок, где осуществлена постройка. Согласно экспертному заключению &lt;данные изъяты&gt; № от ДД.ММ.ГГГГ, самовольно возведенный пристрой под литерой А1 и Литера а к квартире № в доме № по улице &lt;данные изъяты&gt;, с увеличением площади застройки на *** м2 для удовлетворения гражданами бытовых и иныхнужд, в качестве кухни, туалета, коридора, прихожей и веранды, соответствует требованиям СанПиН 2.1.2.1002-00 «Санитарно-эпидемиологические правила и нормативы», СНиП 21-01 «Пожарная безопасность зданий и сооружений», СНиП 31-02-2001 «Дома жилые одноквартирные», СНиП 2.02.01-83 «Основания зданий и сооружений» и требованиям Постановления Правительства Российской Федерации от 28 января 2006 г. N47. Согласно экспертному заключению &lt;данные изъяты&gt; № от ДД.ММ.ГГГГ, произведенное строительство пристроек к квартире № жилого дома не ухудшает условия эксплуатации квартиры, отвечает требованиям по функциональному назначению и пригодны для эксплуатации и проживания. По результатам обследования жилого помещения, эксперт пришел к выводу, что деформаций, разрушений, повреждений и трещин, ухудшающие эксплуатационные свойства строений Литера А, пристройки Литера А1, Литера а жилого дома по адресу: &lt;данные изъяты&gt; в целом не имеется. При таких обстоятельствах, судом установлено, что произведенная перепланировка в квартире № не ведет к нарушению прочности или разрушению несущих конструкций жилого дома, при этом не нарушаются права и законные интересы граждан, проживающих в этом доме, и не создает угрозы их жизни и здоровью. На основании изложенного, руководствуясь ст. ст. 194-199 ГПК РФ, суд </br><br />
+        <strong>РЕШИЛ:</strong> Сохранить жилое помещение &#8212; квартиру № в доме № по улице &lt;данные изъяты&gt; в переустроенном и перепланированном состоянии. &nbsp;
+    </div>
+<h3>Перепланировка жилого помещения &#8212; 3</h3>
+<div>
+        <strong>Объект экспертизы:</strong> пристройка и перепланировка квартир одноэтажного жилого дома.</p>
+<div class="MyJobImg">
+<div class="MyJobImgRow">
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/97.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/97.jpg" />
+                </div>
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/98.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/98.jpg" /></div>
+</p></div>
+</p></div>
+<p>        <span style="line-height: 1.5em;"><strong>Ситуация:</strong> В период проживания в указанных жилых помещениях истцами проведена самовольная перепланировка квартир № и №: перепланировка помещений кухонь квартир № в жилые помещения с увеличением соответственно жилой площади, произведено объединение коридоров квартир за счет демонтажа стен перегородок, демонтаж печей квартир и перенос перегородок с дверными проемами помещений кухни квартир, перенос дверных проемов комнат квартир, реконструкции дверных проемов входных дверей в квартиры № и №, снос сеней литер а4 квартир № и № и строительство пристройки Литер А2 с увеличением площади застройки на 38,2 кв.м., произведено строение веранды и крыльца с навесом Литера а4 площадью 6,51 кв.м., к пристройке Литера А2, Работы выполнялись самостоятельно, за счет собственных средств, без получения соответствующего решения о согласовании перепланировки квартиры.</span> Согласно экспертному заключению &lt;данные изъяты&gt; № от ДД.ММ.ГГГГ, в жилых помещениях квартир № и № дома № по улице &lt;данные изъяты&gt; произведена перепланировка комнат № и № Литера А за счет переноса дверных проемов в стене перегородки, не являющейся несущей стеной, имеется увеличение жилой площади комнаты № за счет демонтажа печи на 0,2 кв.м., произведено переустройство помещений кухни (3) квартиры № и кухни (2) квартиры № в жилые помещения (3), (5) Литера А квартиры № дома № по улице &lt;данные изъяты&gt;, с увеличением жилой площади за счет переноса перегородок с дверным проёмом, не являющиеся несущими стенами и демонтажа печей. По результатам обследования жилого помещения, эксперт пришел к выводу, что строения квартиры № Литера А, пристройки Литера А2, Литера а дома № по улице &lt;данные изъяты&gt; обеспечены инженерными системами: электроосвещение, хозяйственно-питьевое водоснабжение, отопление автономное газовое с водяным контуром системы отопления, газоснабжение сетевое, вентиляция &#8212; форточное проветривание. Деформаций, разрушений, повреждений и трещин, ухудшающие эксплуатационные свойства строений Литера А, пристройки Литера А2, Литера а жилого дома по адресу: &lt;данные изъяты&gt; в целом не имеется. Произведенная перепланировка и реконструкция помещений квартиры № Литера А, пристройки Литера А2, Литера а дома № по улице &lt;данные изъяты&gt;, не ухудшают условий эксплуатации квартиры, не способствуют нарушению работы отопительной системы и естественной вентиляции квартиры, не нарушают права других жильцов многоквартирного дома. Помещения строений квартиры № Литера А, пристройки Литера А2, Литера а дома № по улице &lt;данные изъяты&gt; отвечают требованиям по функциональному назначению и пригодны для эксплуатации при проживании. На основании изложенного, руководствуясь ст. ст. 194-199 ГПК РФ, суд </br><br />
+        <strong>РЕШИЛ:</strong> Сохранить жилое помещение, образованное путем объединения квартир №, № в доме № по улице &lt;данные изъяты&gt; в переустроенном и перепланированном состоянии.
+    </div>
+<h3>Примеры перепланировок наших клиентов</h3>
+<div>
+<h2>Примеры перепланировок наших клиентов</h2>
+<p style="text-align: center;"><strong>Монтаж и демонтаж ненесущих стен-перегородок</strong><br />
+            <strong>в здании на улице 20 Партсъезда</strong></p>
+<div class="MyJobImg">
+<div class="MyJobImgRow">
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/99.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/99.jpg" />
+                </div>
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/100.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/100.jpg" /></div>
+</p></div>
+</p></div>
+<p style="text-align: center;"><strong>Увеличение площади кухни за счет переноса перегородки между кухней и ванной, совмещение туалета с ванной в санузел, уменьшение площади коридора за счет переноса перегородки между коридором и туалетом, квартира на ул. 17 Военный городок</strong></p>
+<div class="MyJobImg">
+<div class="MyJobImgRow">
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/101.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/101.jpg" />
+                </div>
+<div class="img-b">
+<div class="btnAdd"></div>
+<p>                    <img alt="" href="http://www.expert-omsk.ru/wp-content/uploads/wppa/102.jpg" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/102.jpg" /></div>
+</p></div>
+</p></div>
+</p></div>
+</div>
     
                     <div class="clear"></div>
                 </div>   

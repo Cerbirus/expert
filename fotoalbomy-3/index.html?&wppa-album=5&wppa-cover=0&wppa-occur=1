@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>НПЭО - Независимая потребительская экспертиза, оценка</title>
+<title>Фотоальбомы | Независимая потребительская экспертиза и оценка</title>
 
 <!-- Style sheets -->
 <link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/style.css" media="screen" />
@@ -32,6 +32,7 @@
 </style>
 <link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента" href="http://www.expert-omsk.ru/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента комментариев" href="http://www.expert-omsk.ru/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Независимая потребительская экспертиза и оценка &raquo; Лента комментариев к &laquo;Фотоальбомы&raquo;" href="http://www.expert-omsk.ru/fotoalbomy-3/feed/" />
 <link rel='stylesheet' id='wppa_style-css'  href='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/theme/wppa-style.css?ver=5-2-20-000' type='text/css' media='all' />
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
@@ -39,24 +40,19 @@
 <script type='text/javascript' src='http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/wppa.init.ru.js?ver=143'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.expert-omsk.ru/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.expert-omsk.ru/wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Экспертиза мебели' href='http://www.expert-omsk.ru/uslugi/ekspertiza-mebeli/' />
-<link rel='next' title='Часто встречаемые дефекты оконных и дверных блоков' href='http://www.expert-omsk.ru/fotogalereya-ekspertiza-okon/' />
+<link rel='prev' title='Экспертиза окон и дверей' href='http://www.expert-omsk.ru/uslugi/ekspertiza-okon-i-dverei/' />
+<link rel='next' title='Форма публикации' href='http://www.expert-omsk.ru/rcl-postedit/' />
 <meta name="generator" content="WordPress 3.8.1" />
-<link rel='shortlink' href='http://www.expert-omsk.ru/?p=679' />
+<link rel='shortlink' href='http://www.expert-omsk.ru/?p=1497' />
 <meta name="template" content="delicate 3.5" />
 <meta name="generator" content="NattyWP Framework Version 2.0" />
 <meta name="description" content="Экспертиза и оценка любого имущества " />
 <link rel="icon" href="http://www.expert-omsk.ru/wp-content/themes/delicate/images/icons/meta-tags.gif" /><link rel="shortcut icon" href="http://www.expert-omsk.ru/wp-content/themes/delicate/images/icons/meta-tags.gif" />
 <link rel="stylesheet" type="text/css" href="http://www.expert-omsk.ru/wp-content/themes/delicate/functions/css/shortcodes.css" media="screen" /><script type="text/javascript" src="http://www.expert-omsk.ru/wp-content/themes/delicate/functions/js/shortcode.js"></script>
-<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[119,221] -->
+<!-- All in One SEO Pack 2.1.4 by Michael Torbert of Semper Fi Web Design[119,245] -->
 <link rel="author" href="https://plus.google.com/u/0/b/117263384751577198670/117263384751577198670/about" />
-<meta name="description" content="Экспертиза ремонтных работ, монтажа и эксплуатации оконных и дверных блоков. Оценка недвижимости, квартир, автомобилей. Оценка ущерба от затопления. Перео" />
-
-<meta name="keywords" content="Оказываем весь спектр услуг по оценке стоимости, Все виды оценки, Оценка предприятия (бизнеса), Оценка недвижимости, Оценка зданий, Оценка сооружений, помещений, земельных участков, квартир, коттеджей и другой загородной недвижимости, Оценка ценных бумаг акций векселей, Оценка интеллектуальной собственности, Оборудования, Автомобилей и спецтехники. Переоценка. Оценка ущерба от залива квартиры или затопления помещения, Оценка ущерба от пожара, Оценка устранения строительных дефектов, Окна ПВХ, Пластиковые окна, Оценка дефектов оконных и дверных блоков, Выполняем экспертизу, Экспертиза общестроительных работ, Экспертиза отделочных работ, Экспертиза ремонтных работ и услуг в части производства, монтажа и эксплуатации оконных и дверных блоков, Экспертиза технического состояния, Экспертиза транспортных средств, Оценка автомобиля, Автотехническая экспертиза, исследование технического состояния транспортных средств их частей узлов агрегатов, Экспертиза общестроительных работ и строительных материалов, Экспертиза сложной бытовой техники, Экспертиза мебели" />
-
-<style type="text/css">
-</style><meta name="google-site-verification" content="2iGA0d68hMvK3ttO5madS1MnBXSQNDarPsQ_zIjeBJk" />
-<link rel="canonical" href="http://www.expert-omsk.ru/" />
+<style type="text/css">.sub-menu .menu-item span{text-transform: uppercase;}</style>
+<link rel="canonical" href="http://www.expert-omsk.ru/fotoalbomy-3/" />
 			<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -160,7 +156,7 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 </style>
 </head>
 
-<body class="home page page-id-679 page-template-default custom-background">
+<body class="page page-id-1497 page-template-default custom-background">
 <div class="content-pad">
 <div id="header">
 	<div id="logo"><a href="http://www.expert-omsk.ru"><img src="http://www.expert-omsk.ru/wp-content/uploads/2014/09/title7.png" border="0" class="png" alt="Независимая потребительская экспертиза и оценка" /></a></div>        
@@ -174,7 +170,7 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
 
 <div class="top">
     <div id="menu">	
-       <ul id="nav-ie" class="topnav fl fr sf-js-enabled sf-shadow"><li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-679 current_page_item menu-item-has-children menu-item-1392"><a href="http://www.expert-omsk.ru/"><span>Услуги</span></a>
+       <ul id="nav-ie" class="topnav fl fr sf-js-enabled sf-shadow"><li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1392"><a href="http://www.expert-omsk.ru/"><span>Услуги</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-736"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/"><span>Экспертиза и оценка после затопления</span></a></li>
 	<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-738"><a href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-pozhara/"><span>Оценка ущерба от пожара</span></a>
@@ -256,57 +252,98 @@ body.custom-background { background-color: #eff6ff; background-image: url('http:
           							
 			<div class="post">
             	
-                <div class="title"><h2></h2></div>                
+                <div class="title"><h2>Фотоальбомы</h2></div>                
 				<div class="entry">
-                                          <style type="text/css">
-<!-- .post .entry {
-    margin-top: -26px !important;
-}</p>
-<p>-->
-</style>
-<table style="table-layout: fixed;" width="100%" border="0">
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-    </colgroup>
-<tbody>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img class="aligncenter size-thumbnail wp-image-1072" alt="Экспертиза общестроительных, Отделочных и ремонтных работ и услуг в части производства, монтажа и эксплуатации оконных и дверных блоков" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/strotelnaya-expertisa-150x150.png" width="150" height="150" /><strong><a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Строительно-техническая экспертиза<br />
-</a></strong><a title="Перепланировка и переустройство жилого помещения" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/pereplanirovka-i-pereustrojstvo-zhilogo-pomeshheniya/" target="_blank"> Перепланировка жилого помещения</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Техническое обследование зданий</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Экспертиза качества строительных работ</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Экспертиза качества отделочных работ</a><br />
-                <a title="СТРОИТЕЛЬНО-ТЕХНИЧЕСКАЯ ЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/stroitelno-texnicheskaya-ekspertiza/">Оценка стоимости устранения дефектов</a><br />
-                <a title="ЭКСПЕРТИЗА ПРИЧИН И ОЦЕНКА УЩЕРБА ПОСЛЕ ЗАЛИВА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/">Экспертиза причин затопления</a></td>
-<td style="text-align: center; vertical-align: top;"><img alt="Экспертиза пластиковых окон и дверей" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/expertisa-okon-150x150.png" width="150" height="150" /></p>
-<p></strong><a title="Экспертиза конструкций оконных блоков" href="http://www.expert-omsk.ru/uslugi/ekspertiza-konstruktsiy-okonnykh-blokov/" target="_blank">Экспертиза конструкций оконных блоков</a><br />
-                <a title="Экспертиза дверных блоков" href="/uslugi/ekspertiza-dvernyx-blokov/">Экспертиза дверных блоков</a></td>
-</tr>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img alt="Экспертиза бытовой техники. Экспертиза мебели" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/expertisa-tovarov-150x150.png" width="150" height="150" /></p>
-<p> </strong><a title="Экспертиза мебели" href="http://www.expert-omsk.ru/uslugi/ekspertiza-mebeli/">Экспертиза мебели</a><br />
-<a title="Экспертиза бытовой техники" href="uslugi/ekspertiza-bytovoj-texniki/">Экспертиза бытовой техники</a></td>
-<td style="text-align: center; vertical-align: top;"><strong><img class="aligncenter size-thumbnail wp-image-1105" alt="Оценка ущерба" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/ущерб-150x150.png" width="150" height="150" /><a title="ОЦЕНКА УЩЕРБА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba/">Оценка ущерба</a></strong><br />
-                <a title="ЭКСПЕРТИЗА ПРИЧИН И ОЦЕНКА УЩЕРБА ПОСЛЕ ЗАЛИВА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-zatopleniya/">Оценка ущерба после затопления</a><br />
-                <a title="ОЦЕНКА УЩЕРБА ОТ ПОЖАРА" href="http://www.expert-omsk.ru/uslugi/ocenka-ushherba-ot-pozhara/">Оценка ущерба после пожара</a></td>
-</tr>
-<tr>
-<td style="text-align: center; vertical-align: top;"><img alt="исследование технического состояния транспортных средств, их частей, узлов, агрегатов" src="http://www.expert-omsk.ru/wp-content/uploads/2014/12/autoexpertisa-150x150.png" width="150" height="150" /><br />
-                <strong><a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Автоэкспертиза</a><br />
-</strong><a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Установление технического состояния авто</a><br />
-                <a title="АВТОЭКСПЕРТИЗА" href="http://www.expert-omsk.ru/uslugi/avtoekspertiza/">Экспертиза узлов и агрегатов</a></td>
-<td style="vertical-align: top; text-align: center;"><img alt="Оценка всех видов имущества" src="http://www.expert-omsk.ru/wp-content/uploads/2014/03/ocenka-150x150.png" width="150" height="150" /><br />
-                <strong>Оценка всех видов имущества<br />
-</strong>Оценка недвижимости<br />
-                <a title="Оценка спецтехники" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка автомобилей</a><br />
-                <a title="Оценка спецтехники" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка спецтехники</a><br />
-                <a title="ОЦЕНКА ОБОРУДОВАНИЯ" href="http://www.expert-omsk.ru/uslugi/ocenka-oborudovaniya/">Оценка оборудования</a></td>
-</tr>
-</tbody>
-</table>
-<p><!-- begin of Dorus.ru code --><br />
-<a target="_blank" href="http://omsk.dorus.ru/"><img src="http://www.dorus.ru/images/dorus.gif" width="88" height="31" title="Бесплатные объявления газета мытищи" border="0" /></a><br />
-<!-- end of Dorus.ru code --></p>
+                                          
+<!-- Start WPPA+ generated code -->
+<div id="wppa-container-1" style="clear: both; width:640px; padding:0;" class="wppa-container wppa-container-1 wppa-rev-5220 wppa-prevrev-100 wppa-theme-5-1-19 wppa-api-5-2-20-000" >
+	<input type="hidden" id="wppa-nonce" name="wppa-nonce" value="554524a3ff" />
+	<script type="text/javascript">
+	wppaAutoColumnWidth[1] = false;
+	wppaColWidth[1] = 640;
+	wppaTopMoc = 1;
+	wppaAspectRatio[1] = 0.75;
+	wppaFullSize[1] = 640;
+	wppaFullFrameDelta[1] = 0;
+	wppaFilmStripLength[1] = 554;
+	wppaThumbnailPitch[1] = 104;
+	wppaFilmStripMargin[1] = 2;
+	wppaFilmStripAreaDelta[1] = 98;
+	wppaIsMini[1] = false;
+	wppaSlideBlank[1] = false;
+	</script>
+	<div id="wppa-thumbarea-1" style="clear: both; border-style: solid; border-width:1px; border-radius:6px; -moz-border-radius:6px; -khtml-border-radius:6px; -webkit-border-radius:6px; margin-bottom:8px; background-color:#fff; border-color:#fff; width: 626px;" class="thumbnail-area thumbnail-area-1 wppa-box wppa-alt" >
+		<div id="wppa-popup-1" class="wppa-popup-frame wppa-thumb-text" style="font-weight:normal; " onmouseout="wppaPopDown(1);" ></div>
+		<div style="clear:both;"></div>
+		<div id="thumbnail_frame_40_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-40" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=5&amp;wppa-photo=40&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-40-1">
+				<img id="i-40-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/40.png?ver=1"  alt="Задир кровельного ковра от порыва ветра. Строительный мусор под кровельным покрытием"  title="Задир кровельного ковра от порыва ветра. Строительный мусор под кровельным покрытием" width="100" height="75" style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 40, 'Задир кровельного ковра от порыва ветра. Строительный мусор под кровельным покрытием', 'При замене кровельного покрытия с поверхности плит перекрытия не удален строительный мусор, имеются неровности, что приводит к сквозному повреждению кровельного ковра и застою воды на кровле.', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Задир кровельного ковра от порыва ветра. Строительный мусор под кровельным покрытием</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " >При замене кровельного покрытия с поверхности плит перекрытия не удален строительный мусор, имеются неровности, что приводит к сквозному повреждению кровельного ковра и застою воды на кровле.</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_40_1 -->
+		<div id="thumbnail_frame_41_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-41" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=5&amp;wppa-photo=41&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-41-1">
+				<img id="i-41-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/41.png?ver=1"  alt="Повреждение кровельного ковра близ края крыши"  title="Повреждение кровельного ковра близ края крыши" width="100" height="75" style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 41, 'Повреждение кровельного ковра близ края крыши', 'Имеется разрушение защитного слоя бетона по кромке железобетонных плит карниза и оголение арматуры.', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Повреждение кровельного ковра близ края крыши</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Имеется разрушение защитного слоя бетона по кромке железобетонных плит карниза и оголение арматуры.</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_41_1 -->
+		<div id="thumbnail_frame_42_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-42" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=5&amp;wppa-photo=42&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-42-1">
+				<img id="i-42-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/42.png?ver=1"  alt="Многочисленные вздутия, отслоение кровельного ковра"  title="Многочисленные вздутия, отслоение кровельного ковра" width="100" height="75" style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 42, 'Многочисленные вздутия, отслоение кровельного ковра', 'Имеются многочисленные вздутия, отслоение кровельного ковра от основания.', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Многочисленные вздутия, отслоение кровельного ковра</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Имеются многочисленные вздутия, отслоение кровельного ковра от основания.</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_42_1 -->
+		<div id="thumbnail_frame_43_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-43" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=5&amp;wppa-photo=43&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-43-1">
+				<img id="i-43-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/43.png?ver=1"  alt="Недостаточный уклон кровли"  title="Недостаточный уклон кровли" width="100" height="75" style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 43, 'Недостаточный уклон кровли', 'Имеется протекание кровли в местах скопившегося снега в результате отсутствия герметизации стыков между настилами при уклоне кровли до 15%.\n\nНа крыше имеется скопившийся снег, происходит таяние. На свесах, в водостоке и в волнах профнастила имеется замерзание воды, в результате чего образовавшаяся наледь ограничивает (блокирует) сток талой воды.', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Недостаточный уклон кровли</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Имеется протекание кровли в местах скопившегося снега в результате отсутствия герметизации стыков между настилами при уклоне кровли до 15%.
+
+На крыше имеется скопившийся снег, происходит таяние. На свесах, в водостоке и в волнах профнастила имеется замерзание воды, в результате чего образовавшаяся наледь ограничивает (блокирует) сток талой воды.</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_43_1 -->
+		<div id="thumbnail_frame_44_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-44" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=5&amp;wppa-photo=44&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-44-1">
+				<img id="i-44-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/44.png?ver=1"  alt="Застой воды и биологическое разрушение гидроизоляционных свойств кровельного ковра"  title="Застой воды и биологическое разрушение гидроизоляционных свойств кровельного ковра" width="100" height="75" style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 44, 'Застой воды и биологическое разрушение гидроизоляционных свойств кровельного ковра', 'Некачественно проведенные строительные работы по устройству стяжки, с отсутствием уклона по отводу воды с поверхности кровли. Имеется застой воды и биологическое разрушение гидроизоляционных свойств кровельного ковра.', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Застой воды и биологическое разрушение гидроизоляционных свойств кровельного ковра</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Некачественно проведенные строительные работы по устройству стяжки, с отсутствием уклона по отводу воды с поверхности кровли. Имеется застой воды и биологическое разрушение гидроизоляционных свойств кровельного ковра.</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_44_1 -->
+		<div id="thumbnail_frame_45_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-45" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=5&amp;wppa-photo=45&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-45-1">
+				<img id="i-45-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/45.png?ver=1"  alt="Вздутия, трещины, разрушения верхнего слоя кровельного ковра"  title="Вздутия, трещины, разрушения верхнего слоя кровельного ковра" width="100" height="75" style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 45, 'Вздутия, трещины, разрушения верхнего слоя кровельного ковра', 'Имеются многочисленные вздутия (морщинистость кровельного ковра), трещины, разрушения верхнего слоя кровельного ковра.', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Вздутия, трещины, разрушения верхнего слоя кровельного ковра</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Имеются многочисленные вздутия (морщинистость кровельного ковра), трещины, разрушения верхнего слоя кровельного ковра.</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_45_1 -->
+		<div id="thumbnail_frame_46_1" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-46" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" >
+		<div class="wppa-tn-img-container" style="height:100px; width:100px; overflow:hidden;"><!-- image container -->
+			<a style="position:static;" href="http://www.expert-omsk.ru/fotoalbomy-3/?wppa-album=5&amp;wppa-photo=46&amp;wppa-occur=1" target="_self" class="thumb-img" id="x-46-1">
+				<img id="i-46-1" src="http://www.expert-omsk.ru/wp-content/uploads/wppa/thumbs/46.png?ver=1"  alt="Биоповреждение деревянной конструкции кровли"  title="Биоповреждение деревянной конструкции кровли" width="100" height="75" style=" border-width: 0px; width:100px; height:75px; margin-top: 13px; margin-bottom: 13px; opacity:0.95; filter:alpha(opacity=95); cursor:pointer;"  onmouseout="jQuery(this).fadeTo(400, 0.95)" onmouseover="jQuery(this).fadeTo(400, 1.0);wppaPopUp(1, this, 46, 'Биоповреждение деревянной конструкции кровли', 'Под обрешеткой отсутствует водоизоляционный рулонный материал, имеется поражение грибком деревянной конструкции кровли от образования конденсата на металле профнастила', '', '');"  />
+			</a></div><!-- image container --><div style="height: 50px; width:100px; position:absolute; overflow:hidden;" ><!-- subtext container -->
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Биоповреждение деревянной конструкции кровли</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " >Под обрешеткой отсутствует водоизоляционный рулонный материал, имеется поражение грибком деревянной конструкции кровли от образования конденсата на металле профнастила</div>
+			<div class="wppa-thumb-text" style="font-weight:normal; " ></div></div><!-- subtext container -->
+		</div><!-- #thumbnail_frame_46_1 -->
+		<div style="clear:both;"></div>
+	</div><!-- wppa-thumbarea-1 --><div style="clear:both;"></div>
+</div><!-- wppa-container-1 -->
+<!-- End WPPA+ generated code -->
     
                     <div class="clear"></div>
                 </div>   
@@ -393,13 +430,14 @@ box-shadow: 1px 1px 1px rgba(0,0,0,0.6);"/></a></div>
 							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=4&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза мебели</a>
 						</li>
 						<li class="anw-3--1" style="list-style:none; display:;">
-							<div style="width:12px;float:left;" >&nbsp;</div>
+							<div style="width:12px;float:left;" >&nbsp;&raquo;</div>
 							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=5&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза кровли</a>
 						</li>
 						<li class="anw-3--1" style="list-style:none; display:;">
 							<div style="width:12px;float:left;" >&nbsp;</div>
 							<a href="http://www.expert-omsk.ru/fotoalbomy-3/?&amp;wppa-album=6&amp;wppa-cover=0&amp;wppa-occur=1">Экспертиза дверных блоков</a>
-						</li></ul></div><div style="clear:both"></div>
+						</li></ul><script type="text/javascript" >
+								jQuery('.anw-3-5').css('display',''); jQuery('.anw-3-5-').css('display','none');</script></div><div style="clear:both"></div>
 <!-- WPPA+ Album Navigator Widget end --></li> 
 </ul>  
     </div>    

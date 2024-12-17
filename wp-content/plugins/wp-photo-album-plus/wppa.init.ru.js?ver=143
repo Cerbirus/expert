@@ -9,7 +9,7 @@
 	wppaPopupLinkType = "photo";
 	wppaAnimationType = "fadeover";
 	wppaAnimationSpeed = 800;
-	wppaImageDirectory = "http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/images/";
+	wppaImageDirectory = "https://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/images/";
 	wppaThumbnailAreaDelta = 14;
 	wppaTextFrameDelta = 181;
 	wppaBoxDelta = 14;
@@ -57,13 +57,13 @@
 	wppaFontWeightNumbarActive = "bold";
 	wppaNumbarMax = "10";
 	wppaLang = "ru";
-	wppaAjaxUrl = "http://www.expert-omsk.ru/wp-admin/admin-ajax.php";
-	wppaSiteUrl = "http://www.expert-omsk.ru";
+	wppaAjaxUrl = "https://www.expert-omsk.ru/wp-admin/admin-ajax.php";
+	wppaSiteUrl = "https://www.expert-omsk.ru";
 	wppaNextOnCallback = false;
 	wppaRatingUseAjax = true;
 	wppaStarOpacity = 0.2;
-	wppaTickImg.src = "http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/images/tick.png";
-	wppaClockImg.src = "http://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/images/clock.png";
+	wppaTickImg.src = "https://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/images/tick.png";
+	wppaClockImg.src = "https://www.expert-omsk.ru/wp-content/plugins/wp-photo-album-plus/images/clock.png";
 	wppaSlideWrap = true;
 	wppaLightBox = "wppa";
 	wppaEmailRequired = true;
@@ -81,7 +81,7 @@
 	wppaArtMonkyLink = "none";
 	wppaAutoOpenComments = false;
 	wppaUpdateAddressLine = true;
-	wppaUploadUrl = "http://www.expert-omsk.ru/wp-content/uploads/wppa";
+	wppaUploadUrl = "https://www.expert-omsk.ru/wp-content/uploads/wppa";
 	wppaFilmThumbTitle = "Двойной щелчок запускает или останавливает слайдшоу";
 	wppaVoteForMe = "Vote for me!";
 	wppaVotedForMe = "Voted for me";

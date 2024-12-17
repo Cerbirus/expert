@@ -1,4 +1,4 @@
-/* This is the standard wppa_style.css file. See http://wppa.opajaap.nl/ where it is used
+/* This is the standard wppa_style.css file. See https://wppa.opajaap.nl/ where it is used
 /* If you want to modify the layout make a copy of this file and place it in your theme's directory
 /* The copy in your theme's directory has precedense over the original version in wp-photo-album-pls/theme
 /* This assures that your version is not overwritten after an upgrade of the plugin.

@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 
-Sitemap: http://www.expert-omsk.ru/sitemap.xml
+Sitemap: https://www.expert-omsk.ru/sitemap.xml
